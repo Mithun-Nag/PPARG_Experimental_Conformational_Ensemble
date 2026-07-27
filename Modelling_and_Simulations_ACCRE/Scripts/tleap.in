@@ -1,0 +1,20 @@
+# load script using: tleap -s -f tleap.in
+
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+
+complex = loadPdb __PDB_PATH__
+
+check complex
+charge complex
+
+addions complex Na+ 0
+addions complex Cl- 0
+
+solvateoct complex TIP3PBOX 10.0 iso
+
+
+saveamberparm complex prepin.prmtop prepin.inpcrd
+savepdb complex prepin.pdb
+
+quit

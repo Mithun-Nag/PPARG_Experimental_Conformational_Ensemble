@@ -1,0 +1,621 @@
+chain_id,pdb_id,chain,ligand_bound,peptide_bound,peptide_chain,peptide_length,peptide_name,ligand_names,ligand_chemical_name
+1FM6_D.pdb,1FM6,D,TRUE,TRUE,E,16,STEROID RECEPTOR COACTIVATOR,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+1FM6_X.pdb,1FM6,X,TRUE,TRUE,Y,13,STEROID RECEPTOR COACTIVATOR,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+1FM9_D.pdb,1FM9,D,TRUE,TRUE,E,16,STEROID RECEPTOR COACTIVATOR,570,2-(2-BENZOYL-PHENYLAMINO)-3-{4-[2-(5-METHYL-2-PHENYL-OXAZOL-4-YL)-ETHOXY]-PHENYL}-PROPIONIC ACID
+1I7I_A.pdb,1I7I,A,TRUE,FALSE,,,,AZ2,(2S)-2-ETHOXY-3-[4-(2-{4-[(METHYLSULFONYL)OXY]PHENYL}ETHOXY)PHENYL]PROPANOIC ACID
+1I7I_B.pdb,1I7I,B,TRUE,FALSE,,,,AZ2,(2S)-2-ETHOXY-3-[4-(2-{4-[(METHYLSULFONYL)OXY]PHENYL}ETHOXY)PHENYL]PROPANOIC ACID
+1K74_D.pdb,1K74,D,TRUE,TRUE,E,16,STEROID RECEPTOR COACTIVATOR,544,2-(1-METHYL-3-OXO-3-PHENYL-PROPYLAMINO)-3-{4-[2-(5-METHYL-2-PHENYL-OXAZOL-4-YL)-ETHOXY]-PHENYL}-PROPIONIC ACID
+1KNU_A.pdb,1KNU,A,TRUE,FALSE,,,,YPA,(S)-3-(4-(2-CARBAZOL-9-YL-ETHOXY)-PHENYL)-2-ETHOXY-PROPIONIC ACID
+1KNU_B.pdb,1KNU,B,FALSE,FALSE,,,,,
+1NYX_A.pdb,1NYX,A,TRUE,FALSE,,,,DRF,(2S)-2-ETHOXY-3-{4-[2-(10H-PHENOXAZIN-10-YL)ETHOXY]PHENYL}PROPANOIC ACID
+1NYX_B.pdb,1NYX,B,FALSE,FALSE,,,,,
+1PRG_A.pdb,1PRG,A,FALSE,FALSE,,,,,
+1PRG_B.pdb,1PRG,B,FALSE,FALSE,,,,,
+1RDT_D.pdb,1RDT,D,TRUE,FALSE,,,,570,2-(2-BENZOYL-PHENYLAMINO)-3-{4-[2-(5-METHYL-2-PHENYL-OXAZOL-4-YL)-ETHOXY]-PHENYL}-PROPIONIC ACID
+1WM0_X.pdb,1WM0,X,TRUE,TRUE,Y,10,14-MER FROM NUCLEAR RECEPTOR COACTIVATOR 2,PLB,"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+1ZEO_A.pdb,1ZEO,A,TRUE,FALSE,,,,C01,"(2S)-(4-ISOPROPYLPHENYL)[(2-METHYL-3-OXO-5,7-DIPROPYL-2,3-DIHYDRO-1,2-BENZISOXAZOL-6-YL)OXY]ACETATE"
+1ZEO_B.pdb,1ZEO,B,FALSE,FALSE,,,,,
+1ZGY_A.pdb,1ZGY,A,TRUE,TRUE,B,12,"NUCLEAR RECEPTOR SUBFAMILY 0, GROUP B, MEMBER 2",BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+2ATH_A.pdb,2ATH,A,TRUE,FALSE,,,,3EA,2-{5-[3-(7-PROPYL-3-TRIFLUOROMETHYLBENZO[D]ISOXAZOL-6-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID
+2ATH_B.pdb,2ATH,B,TRUE,FALSE,,,,3EA,2-{5-[3-(7-PROPYL-3-TRIFLUOROMETHYLBENZO[D]ISOXAZOL-6-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID
+2F4B_A.pdb,2F4B,A,TRUE,FALSE,,,,EHA,(5-{3-[(6-BENZOYL-1-PROPYL-2-NAPHTHYL)OXY]PROPOXY}-1H-INDOL-1-YL)ACETIC ACID
+2F4B_B.pdb,2F4B,B,FALSE,FALSE,,,,,
+2FVJ_A.pdb,2FVJ,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,"GOL,RO0","1-(3,4-DIMETHOXYBENZYL)-6,7-DIMETHOXY-4-{[4-(2-METHOXYPHENYL)PIPERIDIN-1-YL]METHYL}ISOQUINOLINE"
+2G0G_A.pdb,2G0G,A,TRUE,FALSE,,,,SP0,3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE
+2G0G_B.pdb,2G0G,B,FALSE,FALSE,,,,,
+2G0H_A.pdb,2G0H,A,TRUE,FALSE,,,,SP3,"N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]-3,5-BIS(TRIFLUOROMETHYL)BENZENESULFONAMIDE"
+2G0H_B.pdb,2G0H,B,TRUE,FALSE,,,,SP3,"N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]-3,5-BIS(TRIFLUOROMETHYL)BENZENESULFONAMIDE"
+2GTK_A.pdb,2GTK,A,TRUE,TRUE,B,10,DECAMER FROM NUCLEAR RECEPTOR COACTIVATOR 1,208,"(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID"
+2HFP_A.pdb,2HFP,A,TRUE,TRUE,B,17,SRC PEPTIDE FRAGMENT,NSI,3-(4-METHOXYPHENYL)-N-(PHENYLSULFONYL)-1-[3-(TRIFLUOROMETHYL)BENZYL]-1H-INDOLE-2-CARBOXAMIDE
+2HWQ_A.pdb,2HWQ,A,TRUE,FALSE,,,,DRY,[(1-{3-[(6-BENZOYL-1-PROPYL-2-NAPHTHYL)OXY]PROPYL}-1H-INDOL-5-YL)OXY]ACETIC ACID
+2HWQ_B.pdb,2HWQ,B,FALSE,FALSE,,,,,
+2HWR_A.pdb,2HWR,A,TRUE,FALSE,,,,DRD,2-[(1-{3-[(6-BENZOYL-1-PROPYL-2-NAPHTHYL)OXY]PROPYL}-1H-INDOL-4-YL)OXY]-2-METHYLPROPANOIC ACID
+2HWR_B.pdb,2HWR,B,FALSE,FALSE,,,,,
+2I4J_A.pdb,2I4J,A,TRUE,FALSE,,,,DRJ,"(2R)-2-(4-{2-[1,3-BENZOXAZOL-2-YL(HEPTYL)AMINO]ETHYL}PHENOXY)-2-METHYLBUTANOIC ACID"
+2I4J_B.pdb,2I4J,B,FALSE,FALSE,,,,,
+2I4P_A.pdb,2I4P,A,TRUE,FALSE,,,,DRH,"(2S)-2-(4-{2-[1,3-BENZOXAZOL-2-YL(HEPTYL)AMINO]ETHYL}PHENOXY)-2-METHYLBUTANOIC ACID"
+2I4P_B.pdb,2I4P,B,FALSE,FALSE,,,,,
+2I4Z_A.pdb,2I4Z,A,TRUE,FALSE,,,,DRH,"(2S)-2-(4-{2-[1,3-BENZOXAZOL-2-YL(HEPTYL)AMINO]ETHYL}PHENOXY)-2-METHYLBUTANOIC ACID"
+2I4Z_B.pdb,2I4Z,B,FALSE,FALSE,,,,,
+2OM9_A.pdb,2OM9,A,TRUE,FALSE,,,,AJA,"(6AR,10AR)-3-(1,1-DIMETHYLHEPTYL)-1-HYDROXY-6,6-DIMETHYL-6A,7,10,10A-TETRAHYDRO-6H-BENZO[C]CHROMENE-9-CARBOXYLIC ACID"
+2OM9_B.pdb,2OM9,B,TRUE,FALSE,,,,AJA,"(6AR,10AR)-3-(1,1-DIMETHYLHEPTYL)-1-HYDROXY-6,6-DIMETHYL-6A,7,10,10A-TETRAHYDRO-6H-BENZO[C]CHROMENE-9-CARBOXYLIC ACID"
+2OM9_C.pdb,2OM9,C,TRUE,FALSE,,,,AJA,"(6AR,10AR)-3-(1,1-DIMETHYLHEPTYL)-1-HYDROXY-6,6-DIMETHYL-6A,7,10,10A-TETRAHYDRO-6H-BENZO[C]CHROMENE-9-CARBOXYLIC ACID"
+2OM9_D.pdb,2OM9,D,TRUE,FALSE,,,,AJA,"(6AR,10AR)-3-(1,1-DIMETHYLHEPTYL)-1-HYDROXY-6,6-DIMETHYL-6A,7,10,10A-TETRAHYDRO-6H-BENZO[C]CHROMENE-9-CARBOXYLIC ACID"
+2P4Y_A.pdb,2P4Y,A,TRUE,FALSE,,,,"C03,TRS","(2R)-2-(4-CHLORO-3-{[3-(6-METHOXY-1,2-BENZISOXAZOL-3-YL)-2-METHYL-6-(TRIFLUOROMETHOXY)-1H-INDOL-1-YL]METHYL}PHENOXY)PROPANOIC ACID,2-AMINO-2-HYDROXYMETHYL-PROPANE-1,3-DIOL"
+2P4Y_B.pdb,2P4Y,B,TRUE,FALSE,,,,C03,"(2R)-2-(4-CHLORO-3-{[3-(6-METHOXY-1,2-BENZISOXAZOL-3-YL)-2-METHYL-6-(TRIFLUOROMETHOXY)-1H-INDOL-1-YL]METHYL}PHENOXY)PROPANOIC ACID"
+2POB_A.pdb,2POB,A,TRUE,FALSE,,,,GW4,"N-[(2S)-2-[(2-BENZOYLPHENYL)AMINO]-3-{4-[2-(5-METHYL-2-PHENYL-1,3-OXAZOL-4-YL)ETHOXY]PHENYL}PROPYL]ACETAMIDE"
+2POB_B.pdb,2POB,B,TRUE,FALSE,,,,GOL,
+2PRG_A.pdb,2PRG,A,TRUE,TRUE,C,32,NUCLEAR RECEPTOR COACTIVATOR SRC-1,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+2PRG_B.pdb,2PRG,B,TRUE,TRUE,C,32,NUCLEAR RECEPTOR COACTIVATOR SRC-1,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+2Q59_A.pdb,2Q59,A,TRUE,FALSE,,,,"240,CME","(2S)-2-(2-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID,S,S-(2-HYDROXYETHYL)THIOCYSTEINE"
+2Q59_B.pdb,2Q59,B,TRUE,FALSE,,,,240,(2S)-2-(2-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID
+2Q5P_A.pdb,2Q5P,A,TRUE,FALSE,,,,241,(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID
+2Q5P_B.pdb,2Q5P,B,TRUE,FALSE,,,,241,(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID
+2Q5S_A.pdb,2Q5S,A,TRUE,FALSE,,,,NZA,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q5S_B.pdb,2Q5S,B,TRUE,FALSE,,,,NZA,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q61_A.pdb,2Q61,A,TRUE,FALSE,,,,SF1,1-BENZYL-5-CHLORO-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q61_B.pdb,2Q61,B,TRUE,FALSE,,,,SF1,1-BENZYL-5-CHLORO-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q6R_A.pdb,2Q6R,A,TRUE,FALSE,,,,SF2,5-CHLORO-1-(3-METHOXYBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q6R_B.pdb,2Q6R,B,TRUE,FALSE,,,,SF2,5-CHLORO-1-(3-METHOXYBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+2Q6S_A.pdb,2Q6S,A,FALSE,FALSE,,,,,
+2Q6S_B.pdb,2Q6S,B,TRUE,FALSE,,,,PLB,"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+2Q8S_A.pdb,2Q8S,A,TRUE,FALSE,,,,L92,"(2S)-3-{4-[3-(5-METHYL-2-PHENYL-1,3-OXAZOL-4-YL)PROPYL]PHENYL}-2-(1H-PYRROL-1-YL)PROPANOIC ACID"
+2Q8S_B.pdb,2Q8S,B,FALSE,FALSE,,,,,
+2QMV_A.pdb,2QMV,A,FALSE,FALSE,,,,,
+2VSR_A.pdb,2VSR,A,TRUE,FALSE,,,,9HO,"(9S,10E,12Z)-9-hydroxyoctadeca-10,12-dienoic acid"
+2VSR_B.pdb,2VSR,B,TRUE,FALSE,,,,9HO,"(9S,10E,12Z)-9-hydroxyoctadeca-10,12-dienoic acid"
+2VST_A.pdb,2VST,A,TRUE,FALSE,,,,243,"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid"
+2VST_B.pdb,2VST,B,TRUE,FALSE,,,,243,"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid"
+2VV0_A.pdb,2VV0,A,TRUE,FALSE,,,,HXA,"DOCOSA-4,7,10,13,16,19-HEXAENOIC ACID"
+2VV0_B.pdb,2VV0,B,TRUE,FALSE,,,,HXA,"DOCOSA-4,7,10,13,16,19-HEXAENOIC ACID"
+2VV1_A.pdb,2VV1,A,TRUE,FALSE,,,,4HD,"(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid"
+2VV1_B.pdb,2VV1,B,TRUE,FALSE,,,,4HD,"(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid"
+2VV2_A.pdb,2VV2,A,TRUE,FALSE,,,,5HE,"(5R,6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid"
+2VV2_B.pdb,2VV2,B,TRUE,FALSE,,,,5HE,"(5R,6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid"
+2VV3_A.pdb,2VV3,A,TRUE,FALSE,,,,4R8,"(6E,10Z,13Z,16Z,19Z)-4-oxodocosa-6,10,13,16,19-pentaenoic acid"
+2VV3_B.pdb,2VV3,B,FALSE,FALSE,,,,,
+2VV4_A.pdb,2VV4,A,TRUE,FALSE,,,,6OC,"(8R,9Z,12Z)-8-hydroxy-6-oxooctadeca-9,12-dienoic acid"
+2VV4_B.pdb,2VV4,B,TRUE,FALSE,,,,6OB,"(8E,10S,12Z)-10-hydroxy-6-oxooctadeca-8,12-dienoic acid"
+2XKW_A.pdb,2XKW,A,TRUE,FALSE,,,,"P1B,PE4","(5R)-5-{4-[2-(5-ethylpyridin-2-yl)ethoxy]benzyl}-1,3-thiazolidine-2,4-dione,2-{2-[2-(2-{2-[2-(2-ETHOXY-ETHOXY)-ETHOXY]-ETHOXY}-ETHOXY)-ETHOXY]-ETHOXY}-ETHANOL"
+2XKW_B.pdb,2XKW,B,TRUE,FALSE,,,,"EPE,P1B","4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID,(5R)-5-{4-[2-(5-ethylpyridin-2-yl)ethoxy]benzyl}-1,3-thiazolidine-2,4-dione"
+2YFE_A.pdb,2YFE,A,TRUE,FALSE,,,,YFE,Amorfrutin 1
+2YFE_B.pdb,2YFE,B,TRUE,FALSE,,,,YFE,Amorfrutin 1
+2ZK0_A.pdb,2ZK0,A,FALSE,FALSE,,,,,
+2ZK0_B.pdb,2ZK0,B,FALSE,FALSE,,,,,
+2ZK1_A.pdb,2ZK1,A,TRUE,FALSE,,,,PTG,"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid"
+2ZK1_B.pdb,2ZK1,B,TRUE,FALSE,,,,PTG,"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid"
+2ZK2_A.pdb,2ZK2,A,TRUE,FALSE,,,,"GSH,PTG","GLUTATHIONE,(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid"
+2ZK2_B.pdb,2ZK2,B,FALSE,FALSE,,,,,
+2ZK3_A.pdb,2ZK3,A,TRUE,FALSE,,,,OCX,"(5E,11E,14E)-8-oxoicosa-5,9,11,14-tetraenoic acid"
+2ZK3_B.pdb,2ZK3,B,TRUE,FALSE,,,,OCX,"(5E,11E,14E)-8-oxoicosa-5,9,11,14-tetraenoic acid"
+2ZK4_A.pdb,2ZK4,A,TRUE,FALSE,,,,OCR,"(5E,8E,11Z,13E)-15-oxoicosa-5,8,11,13-tetraenoic acid"
+2ZK4_B.pdb,2ZK4,B,TRUE,FALSE,,,,OCR,"(5E,8E,11Z,13E)-15-oxoicosa-5,8,11,13-tetraenoic acid"
+2ZK5_A.pdb,2ZK5,A,TRUE,FALSE,,,,NRO,3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid
+2ZK5_B.pdb,2ZK5,B,TRUE,FALSE,,,,NRO,3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid
+2ZK6_A.pdb,2ZK6,A,TRUE,FALSE,,,,C08,difluoro(5-{2-[(5-octyl-1H-pyrrol-2-yl-kappaN)methylidene]-2H-pyrrol-5-yl-kappaN}pentanoato)boron
+2ZK6_B.pdb,2ZK6,B,TRUE,FALSE,,,,C08,difluoro(5-{2-[(5-octyl-1H-pyrrol-2-yl-kappaN)methylidene]-2H-pyrrol-5-yl-kappaN}pentanoato)boron
+2ZNO_A.pdb,2ZNO,A,TRUE,FALSE,,,,S44,"(2S)-2-(4-propoxy-3-{[({4-[(3S,5S,7S)-tricyclo[3.3.1.1~3,7~]dec-1-yl]phenyl}carbonyl)amino]methyl}benzyl)butanoic acid"
+2ZNO_B.pdb,2ZNO,B,TRUE,FALSE,,,,S44,"(2S)-2-(4-propoxy-3-{[({4-[(3S,5S,7S)-tricyclo[3.3.1.1~3,7~]dec-1-yl]phenyl}carbonyl)amino]methyl}benzyl)butanoic acid"
+2ZVT_A.pdb,2ZVT,A,TRUE,FALSE,,,,PTG,"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid"
+2ZVT_B.pdb,2ZVT,B,TRUE,FALSE,,,,PTG,"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid"
+3ADS_A.pdb,3ADS,A,TRUE,FALSE,,,,IMN,INDOMETHACIN
+3ADS_B.pdb,3ADS,B,TRUE,FALSE,,,,IMN,INDOMETHACIN
+3ADT_A.pdb,3ADT,A,TRUE,FALSE,,,,HID,(5-hydroxy-1H-indol-3-yl)acetic acid
+3ADT_B.pdb,3ADT,B,FALSE,FALSE,,,,,
+3ADU_A.pdb,3ADU,A,TRUE,FALSE,,,,MYI,(5-methoxy-1H-indol-3-yl)acetic acid
+3ADU_B.pdb,3ADU,B,TRUE,FALSE,,,,MYI,(5-methoxy-1H-indol-3-yl)acetic acid
+3ADV_A.pdb,3ADV,A,TRUE,FALSE,,,,SRO,SEROTONIN
+3ADV_B.pdb,3ADV,B,TRUE,FALSE,,,,SRO,SEROTONIN
+3ADW_A.pdb,3ADW,A,TRUE,FALSE,,,,"MYI,OCR","(5-methoxy-1H-indol-3-yl)acetic acid,(5E,8E,11Z,13E)-15-oxoicosa-5,8,11,13-tetraenoic acid"
+3ADW_B.pdb,3ADW,B,TRUE,FALSE,,,,OCR,"(5E,8E,11Z,13E)-15-oxoicosa-5,8,11,13-tetraenoic acid"
+3ADX_A.pdb,3ADX,A,TRUE,FALSE,,,,"IMN,NRO","INDOMETHACIN,3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid"
+3ADX_B.pdb,3ADX,B,TRUE,FALSE,,,,IMN,INDOMETHACIN
+3AN3_A.pdb,3AN3,A,TRUE,FALSE,,,,M7S,"(2S)-2-benzyl-3-(4-propoxy-3-{[({4-[(3S,5S,7S)-tricyclo[3.3.1.1~3,7~]dec-1-yl]phenyl}carbonyl)amino]methyl}phenyl)propanoic acid"
+3AN3_B.pdb,3AN3,B,FALSE,FALSE,,,,,
+3AN4_A.pdb,3AN4,A,TRUE,FALSE,,,,M7R,"(2R)-2-benzyl-3-(4-propoxy-3-{[({4-[(3S,5S,7S)-tricyclo[3.3.1.1~3,7~]dec-1-yl]phenyl}carbonyl)amino]methyl}phenyl)propanoic acid"
+3AN4_B.pdb,3AN4,B,FALSE,FALSE,,,,,
+3B0Q_A.pdb,3B0Q,A,TRUE,FALSE,,,,MC5,"(5S)-5-({6-[(2-fluorobenzyl)oxy]naphthalen-2-yl}methyl)-1,3-thiazolidine-2,4-dione"
+3B0Q_B.pdb,3B0Q,B,FALSE,FALSE,,,,,
+3B0R_A.pdb,3B0R,A,TRUE,FALSE,,,,GW9,2-chloro-5-nitro-N-phenylbenzamide
+3B0R_B.pdb,3B0R,B,TRUE,FALSE,,,,GW9,2-chloro-5-nitro-N-phenylbenzamide
+3B1M_A.pdb,3B1M,A,TRUE,TRUE,B,11,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,KRC,"(9aS)-8-acetyl-N-[(2-ethylnaphthalen-1-yl)methyl]-1,7-dihydroxy-3-methoxy-9a-methyl-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-carboxamide"
+3B3K_A.pdb,3B3K,A,TRUE,FALSE,,,,LRG,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+3B3K_B.pdb,3B3K,B,FALSE,FALSE,,,,,
+3BC5_A.pdb,3BC5,A,TRUE,FALSE,,,,ZAA,"(5-{3-[2-(5-methyl-2-phenyl-1,3-oxazol-4-yl)ethoxy]benzyl}-2-phenyl-2H-1,2,3-triazol-4-yl)acetic acid"
+3CDP_A.pdb,3CDP,A,TRUE,FALSE,,,,YRG,(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid
+3CDP_B.pdb,3CDP,B,FALSE,FALSE,,,,,
+3CDS_A.pdb,3CDS,A,TRUE,FALSE,,,,GRR,(2S)-2-(4-ethylphenoxy)-3-phenylpropanoic acid
+3CDS_B.pdb,3CDS,B,FALSE,FALSE,,,,,
+3CS8_A.pdb,3CS8,A,TRUE,TRUE,B,12,PGC-1ALFA PEPTIDE,"BRL,SO4","2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+3CWD_A.pdb,3CWD,A,TRUE,TRUE,C,16,SRC1-2 PEPTIDE,"LNA,LNB","(9E,12Z)-10-nitrooctadeca-9,12-dienoic acid,(9Z,12E)-12-nitrooctadeca-9,12-dienoic acid"
+3CWD_B.pdb,3CWD,B,TRUE,TRUE,D,16,SRC1-2 PEPTIDE,"LNA,LNB","(9E,12Z)-10-nitrooctadeca-9,12-dienoic acid,(9Z,12E)-12-nitrooctadeca-9,12-dienoic acid"
+3D6D_A.pdb,3D6D,A,TRUE,FALSE,,,,LRG,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+3D6D_B.pdb,3D6D,B,FALSE,FALSE,,,,,
+3DZU_D.pdb,3DZU,D,TRUE,FALSE,,,,"PLB,ZN","2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID,ZINC ION"
+3DZY_D.pdb,3DZY,D,TRUE,TRUE,E,10,NCOA2 PEPTIDE,"BRL,ZN","2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL),ZINC ION"
+3E00_D.pdb,3.00E+00,D,TRUE,TRUE,E,10,NCOA2 PEPTIDE,"GW9,ZN","2-chloro-5-nitro-N-phenylbenzamide,ZINC ION"
+3ET0_A.pdb,3ET0,A,TRUE,FALSE,,,,"CME,ET0","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,3-(5-methoxy-1H-indol-3-yl)propanoic acid"
+3ET0_B.pdb,3ET0,B,TRUE,FALSE,,,,"CME,GLC","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,alpha-D-glucopyranose"
+3ET3_A.pdb,3ET3,A,TRUE,TRUE,P,16,STEROID RECEPTOR COACTIVATOR 1,ET1,3-{5-methoxy-1-[(4-methoxyphenyl)sulfonyl]-1H-indol-3-yl}propanoic acid
+3FEJ_A.pdb,3FEJ,A,TRUE,TRUE,B,10,PEPTIDE MOTIF 3 OF NUCLEAR RECEPTOR COACTIVATOR 1,CTM,"(2S)-3-(4-{[2-(4-chlorophenyl)-1,3-thiazol-4-yl]methoxy}-2-methylphenyl)-2-ethoxypropanoic acid"
+3FUR_A.pdb,3FUR,A,TRUE,TRUE,H,12,NUCLEAR RECEPTOR COACTIVATOR 1,"CL,Z12","2,4-dichloro-N-[3,5-dichloro-4-(quinolin-3-yloxy)phenyl]benzenesulfonamide"
+3G9E_A.pdb,3G9E,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,RO7,"(2S)-2-methoxy-3-{4-[2-(5-methyl-2-phenyl-1,3-oxazol-4-yl)ethoxy]-1-benzothiophen-7-yl}propanoic acid"
+3GBK_A.pdb,3GBK,A,TRUE,FALSE,,,,2PQ,"2-[(1-{3-[4-(biphenyl-4-ylcarbonyl)-2-propylphenoxy]propyl}-1,2,3,4-tetrahydroquinolin-5-yl)oxy]-2-methylpropanoic acid"
+3GBK_B.pdb,3GBK,B,FALSE,FALSE,,,,,
+3H0A_D.pdb,3H0A,D,TRUE,TRUE,E,12,"NUCLEAR RECEPTOR COACTIVATOR 1, CO-ACTIVATOR PEPTIDE",D30,"[(4-{[2-(pent-2-yn-1-yloxy)-4-{[4-(trifluoromethyl)phenoxy]methyl}phenyl]sulfanyl}-5,6,7,8-tetrahydronaphthalen-1-yl)oxy]acetic acid"
+3HO0_A.pdb,3HO0,A,TRUE,FALSE,,,,DKD,(2S)-2-(4-phenethylphenoxy)-3-phenyl-propanoic acid
+3HO0_B.pdb,3HO0,B,FALSE,FALSE,,,,,
+3HOD_A.pdb,3HOD,A,TRUE,FALSE,,,,ZZH,(2S)-2-(4-benzylphenoxy)-3-phenylpropanoic acid
+3HOD_B.pdb,3HOD,B,FALSE,FALSE,,,,,
+3IA6_A.pdb,3IA6,A,TRUE,FALSE,,,,UNT,"(2S)-3-{4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propyl]phenyl}-2-(2H-1,2,3-triazol-2-yl)propanoic acid"
+3IA6_B.pdb,3IA6,B,TRUE,FALSE,,,,UNT,"(2S)-3-{4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propyl]phenyl}-2-(2H-1,2,3-triazol-2-yl)propanoic acid"
+3K8S_A.pdb,3K8S,A,TRUE,FALSE,,,,Z27,"2-chloro-N-{3-chloro-4-[(5-chloro-1,3-benzothiazol-2-yl)sulfanyl]phenyl}-4-(trifluoromethyl)benzenesulfonamide"
+3K8S_B.pdb,3K8S,B,TRUE,FALSE,,,,Z27,"2-chloro-N-{3-chloro-4-[(5-chloro-1,3-benzothiazol-2-yl)sulfanyl]phenyl}-4-(trifluoromethyl)benzenesulfonamide"
+3KMG_A.pdb,3KMG,A,TRUE,TRUE,B,11,STEROID RECEPTOR COACTIVATOR-1,538,"4'-[(2,3-dimethyl-5-{[(1S)-1-phenylpropyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+3KMG_D.pdb,3KMG,D,TRUE,TRUE,E,18,STEROID RECEPTOR COACTIVATOR-1,538,"4'-[(2,3-dimethyl-5-{[(1S)-1-phenylpropyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+3LMP_A.pdb,3LMP,A,TRUE,TRUE,C,11,PEPTIDE OF NUCLEAR RECEPTOR COACTIVATOR 1,CEK,"(9aS)-8-acetyl-1,7-dihydroxy-3-methoxy-9a-methyl-N-(1-naphthylmethyl)-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-carboxamide"
+3NOA_A.pdb,3NOA,A,TRUE,FALSE,,,,5BC,(5-{3-[4-(biphenyl-4-ylcarbonyl)-2-propylphenoxy]propoxy}-1H-indol-1-yl)acetic acid
+3NOA_B.pdb,3NOA,B,TRUE,FALSE,,,,5BC,(5-{3-[4-(biphenyl-4-ylcarbonyl)-2-propylphenoxy]propoxy}-1H-indol-1-yl)acetic acid
+3OSI_A.pdb,3OSI,A,TRUE,FALSE,,,,"PGO,XDH","S-1,2-PROPANEDIOL,4,4'-propane-2,2-diylbis(2,6-dichlorophenol)"
+3OSI_B.pdb,3OSI,B,FALSE,FALSE,,,,,
+3OSW_A.pdb,3OSW,A,TRUE,FALSE,,,,"PGO,XDI","S-1,2-PROPANEDIOL,4,4'-propane-2,2-diylbis(2,6-dibromophenol)"
+3OSW_B.pdb,3OSW,B,FALSE,FALSE,,,,,
+3PBA_A.pdb,3PBA,A,TRUE,FALSE,,,,ZXG,"2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenyl hydrogen sulfate"
+3PBA_B.pdb,3PBA,B,TRUE,FALSE,,,,PGO,"S-1,2-PROPANEDIOL"
+3PO9_A.pdb,3PO9,A,TRUE,FALSE,,,,XPT,1-[chloro(dipropyl)-lambda~4~-sulfanyl]propane
+3PO9_B.pdb,3PO9,B,TRUE,FALSE,,,,"PGO,XPT","S-1,2-PROPANEDIOL,1-[chloro(dipropyl)-lambda~4~-sulfanyl]propane"
+3PRG_A.pdb,3PRG,A,FALSE,FALSE,,,,,
+3QT0_A.pdb,3QT0,A,TRUE,TRUE,C,12,NUCLEAR RECEPTOR COACTIVATOR 1 PEPTIDE,486,"11-(4-DIMETHYLAMINO-PHENYL)-17-HYDROXY-13-METHYL-17-PROP-1-YNYL-1,2,6,7,8,11,12,13,14,15,16,17-DODEC AHYDRO-CYCLOPENTA[A]PHENANTHREN-3-ONE"
+3R5N_A.pdb,3R5N,A,TRUE,FALSE,,,,MLO,"5,5'-di(prop-2-en-1-yl)biphenyl-2,2'-diol"
+3R8A_A.pdb,3R8A,A,TRUE,FALSE,,,,HIG,"2-ethyl-5,7-dimethyl-3-{(1S)-5-[2-(1H-tetrazol-5-yl)phenyl]-2,3-dihydro-1H-inden-1-yl}-3H-imidazo[4,5-b]pyridine"
+3R8A_B.pdb,3R8A,B,TRUE,FALSE,,,,HIG,"2-ethyl-5,7-dimethyl-3-{(1S)-5-[2-(1H-tetrazol-5-yl)phenyl]-2,3-dihydro-1H-inden-1-yl}-3H-imidazo[4,5-b]pyridine"
+3R8I_A.pdb,3R8I,A,TRUE,FALSE,,,,XCX,"2-(4-{2-[1,3-benzoxazol-2-yl(heptyl)amino]ethyl}phenoxy)-2-methylpropanoic acid"
+3R8I_B.pdb,3R8I,B,FALSE,FALSE,,,,,
+3S9S_A.pdb,3S9S,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,M0T,"1-(3,4-dichlorobenzyl)-2-methyl-N-[(1R)-1-phenylpropyl]-1H-benzimidazole-5-carboxamide"
+3SZ1_A.pdb,3SZ1,A,TRUE,FALSE,,,,KNA,nonanoic acid
+3SZ1_B.pdb,3SZ1,B,TRUE,FALSE,,,,"LU2,MYR","2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-chromen-4-one,MYRISTIC ACID"
+3T03_A.pdb,3T03,A,TRUE,FALSE,,,,3T0,"(5Z)-5-(5-bromo-2-methoxybenzylidene)-3-(4-methylbenzyl)-1,3-thiazolidine-2,4-dione"
+3T03_B.pdb,3T03,B,TRUE,TRUE,D,13,NUCLEAR RECEPTOR COACTIVATOR 1,3T0,"(5Z)-5-(5-bromo-2-methoxybenzylidene)-3-(4-methylbenzyl)-1,3-thiazolidine-2,4-dione"
+3TY0_A.pdb,3TY0,A,TRUE,FALSE,,,,82,"(5R)-5-(3-{[3-(6-methoxy-1,2-benzoxazol-3-yl)-2-oxo-2,3-dihydro-1H-benzimidazol-1-yl]methyl}phenyl)-5-methyl-1,3-oxazolidine-2,4-dione"
+3TY0_B.pdb,3TY0,B,TRUE,FALSE,,,,82,"(5R)-5-(3-{[3-(6-methoxy-1,2-benzoxazol-3-yl)-2-oxo-2,3-dihydro-1H-benzimidazol-1-yl]methyl}phenyl)-5-methyl-1,3-oxazolidine-2,4-dione"
+3U9Q_A.pdb,3U9Q,A,TRUE,FALSE,,,,DKA,DECANOIC ACID
+3V9T_A.pdb,3V9T,A,TRUE,TRUE,C,10,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,17L,"(9aS)-8-acetyl-N-[(3-ethoxynaphthalen-1-yl)methyl]-1,7-dihydroxy-3-methoxy-9a-methyl-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-carboxamide"
+3V9V_A.pdb,3V9V,A,TRUE,TRUE,C,11,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,21L,"methyl 3-{4-[({[(9aS)-8-acetyl-1,7-dihydroxy-3-methoxy-9a-methyl-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-yl]carbonyl}amino)methyl]naphthalen-2-yl}propanoate"
+3V9Y_A.pdb,3V9Y,A,TRUE,TRUE,B,11,PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,24L,"4-{4-[({[(9aS)-8-acetyl-1,7-dihydroxy-3-methoxy-9a-methyl-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-yl]carbonyl}amino)methyl]naphthalen-2-yl}butanoic acid"
+3VJH_A.pdb,3VJH,A,TRUE,FALSE,,,,J35,(2S)-2-[4-methoxy-3-({[4-(trifluoromethyl)benzoyl]amino}methyl)benzyl]pentanoic acid
+3VJH_B.pdb,3VJH,B,FALSE,FALSE,,,,,
+3VJI_A.pdb,3VJI,A,TRUE,FALSE,,,,J53,"(2S)-2-{4-butoxy-3-[({4-[(3S,5S,7S)-tricyclo[3.3.1.1~3,7~]dec-1-yl]benzoyl}amino)methyl]benzyl}butanoic acid"
+3VJI_B.pdb,3VJI,B,FALSE,FALSE,,,,,
+3VN2_A.pdb,3VN2,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COACTIVATOR 1,TLS,"4'-[(1,7'-dimethyl-2'-propyl-1H,3'H-2,5'-bibenzimidazol-3'-yl)methyl]biphenyl-2-carboxylic acid"
+3VSO_A.pdb,3VSO,A,TRUE,FALSE,,,,EK1,(2R)-2-benzyl-3-[4-propoxy-3-({[4-(pyrimidin-2-yl)benzoyl]amino}methyl)phenyl]propanoic acid
+3VSO_B.pdb,3VSO,B,FALSE,FALSE,,,,,
+3VSP_A.pdb,3VSP,A,TRUE,FALSE,,,,EK8,(2R)-2-benzyl-3-[3-({[4-(piperidin-1-yl)benzoyl]amino}methyl)-4-propoxyphenyl]propanoic acid
+3VSP_B.pdb,3VSP,B,FALSE,FALSE,,,,,
+3WJ4_A.pdb,3WJ4,A,TRUE,FALSE,,,,TBY,tributylstannanyl
+3WJ4_B.pdb,3WJ4,B,TRUE,FALSE,,,,TBY,tributylstannanyl
+3WJ5_A.pdb,3WJ5,A,TRUE,FALSE,,,,T9T,triphenylstannanyl
+3WJ5_B.pdb,3WJ5,B,TRUE,FALSE,,,,T9T,triphenylstannanyl
+3WMH_A.pdb,3WMH,A,TRUE,FALSE,,,,JJA,N-(phenylsulfonyl)-4-propoxy-3-({[4-(pyrimidin-2-yl)benzoyl]amino}methyl)benzamide
+3WMH_B.pdb,3WMH,B,TRUE,FALSE,,,,JJA,N-(phenylsulfonyl)-4-propoxy-3-({[4-(pyrimidin-2-yl)benzoyl]amino}methyl)benzamide
+3X1H_A.pdb,3X1H,A,TRUE,FALSE,,,,5OX,"(7E,11Z,14Z,17Z,20Z)-5-oxotricosa-7,11,14,17,20-pentaenoic acid"
+3X1H_B.pdb,3X1H,B,TRUE,FALSE,,,,5OX,"(7E,11Z,14Z,17Z,20Z)-5-oxotricosa-7,11,14,17,20-pentaenoic acid"
+3X1I_A.pdb,3X1I,A,TRUE,FALSE,,,,66B,"(8E,12Z,15Z,18Z,21Z)-6-oxotetracosa-8,12,15,18,21-pentaenoic acid"
+3X1I_B.pdb,3X1I,B,TRUE,FALSE,,,,66B,"(8E,12Z,15Z,18Z,21Z)-6-oxotetracosa-8,12,15,18,21-pentaenoic acid"
+4A4V_A.pdb,4A4V,A,TRUE,FALSE,,,,YFD,AMORFRUTIN 2
+4A4V_B.pdb,4A4V,B,TRUE,FALSE,,,,YFD,AMORFRUTIN 2
+4A4W_A.pdb,4A4W,A,TRUE,FALSE,,,,YFB,AMORFRUTIN B
+4A4W_B.pdb,4A4W,B,TRUE,FALSE,,,,YFB,AMORFRUTIN B
+4CI5_A.pdb,4CI5,A,TRUE,FALSE,,,,Y1N,2-methyl-2-[4-[2-[4-[(E)-phenyldiazenyl]phenoxy]ethyl]phenoxy]propanoic acid
+4CI5_B.pdb,4CI5,B,TRUE,FALSE,,,,Y1N,2-methyl-2-[4-[2-[4-[(E)-phenyldiazenyl]phenoxy]ethyl]phenoxy]propanoic acid
+4E4K_A.pdb,4E4K,A,TRUE,FALSE,,,,RRG,(2S)-3-phenyl-2-{[2'-(propan-2-yl)biphenyl-4-yl]oxy}propanoic acid
+4E4K_B.pdb,4E4K,B,FALSE,FALSE,,,,,
+4E4Q_A.pdb,4E4Q,A,TRUE,FALSE,,,,RRH,(2R)-3-phenyl-2-{[2'-(propan-2-yl)biphenyl-4-yl]oxy}propanoic acid
+4E4Q_B.pdb,4E4Q,B,FALSE,FALSE,,,,,
+4EM9_A.pdb,4EM9,A,TRUE,FALSE,,,,"GOL,KNA",nonanoic acid
+4EM9_B.pdb,4EM9,B,TRUE,FALSE,,,,"GOL,KNA,TCE","nonanoic acid,3,3',3''-phosphanetriyltripropanoic acid"
+4EMA_A.pdb,4EMA,A,TRUE,FALSE,,,,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+4EMA_B.pdb,4EMA,B,FALSE,FALSE,,,,,
+4F9M_A.pdb,4F9M,A,TRUE,TRUE,C,11,PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,FCM,"(9aS)-8-acetyl-N-[(2-ethyl-4-fluoronaphthalen-1-yl)methyl]-1,7-dihydroxy-3-methoxy-9a-methyl-9-oxo-9,9a-dihydrodibenzo[b,d]furan-4-carboxamide"
+4FGY_A.pdb,4FGY,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,0W3,"(4R,6S,8S,12R,14R,16Z,18R,19R,20S,21S)-19,21-dihydroxy-22-{(2S,2'R,5S,5'S)-5'-[(1R)-1-hydroxyethyl]-2,5'-dimethyloctahydro-2,2'-bifuran-5-yl}-4,6,8,12,14,18,20-heptamethyl-9,11-dioxodocos-16-enoic acid"
+4HEE_X.pdb,4HEE,X,TRUE,TRUE,Y,16,NUCLEAR RECEPTOR COACTIVATOR 1,14R,"5-benzyl-2-ethyl-3-{(1S)-5-[2-(1H-tetrazol-5-yl)phenyl]-2,3-dihydro-1H-inden-1-yl}-3,5-dihydro-4H-imidazo[4,5-c]pyridin-4-one"
+4JAZ_A.pdb,4JAZ,A,TRUE,FALSE,,,,STL,RESVERATROL
+4JAZ_B.pdb,4JAZ,B,FALSE,FALSE,,,,,
+4JL4_A.pdb,4JL4,A,TRUE,FALSE,,,,AXY,(2S)-3-(biphenyl-4-yl)-2-(biphenyl-4-yloxy)propanoic acid
+4JL4_B.pdb,4JL4,B,FALSE,FALSE,,,,,
+4L96_A.pdb,4L96,A,TRUE,FALSE,,,,LRG,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+4L98_A.pdb,4L98,A,TRUE,FALSE,,,,LRG,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+4L98_B.pdb,4L98,B,TRUE,FALSE,,,,LRG,(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+4O8F_A.pdb,4O8F,A,TRUE,FALSE,,,,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+4O8F_B.pdb,4O8F,B,TRUE,FALSE,,,,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+4OJ4_A.pdb,4OJ4,A,TRUE,FALSE,,,,"CA,DIF","CALCIUM ION,2-[2,6-DICHLOROPHENYL)AMINO]BENZENEACETIC ACID"
+4PRG_A.pdb,4PRG,A,TRUE,FALSE,,,,72,"(+/-)(2S,5S)-3-(4-(4-CARBOXYPHENYL)BUTYL)-2-HEPTYL-4-OXO-5-THIAZOLIDINE"
+4PRG_B.pdb,4PRG,B,TRUE,FALSE,,,,72,"(+/-)(2S,5S)-3-(4-(4-CARBOXYPHENYL)BUTYL)-2-HEPTYL-4-OXO-5-THIAZOLIDINE"
+4PRG_C.pdb,4PRG,C,TRUE,FALSE,,,,72,"(+/-)(2S,5S)-3-(4-(4-CARBOXYPHENYL)BUTYL)-2-HEPTYL-4-OXO-5-THIAZOLIDINE"
+4PRG_D.pdb,4PRG,D,TRUE,FALSE,,,,72,"(+/-)(2S,5S)-3-(4-(4-CARBOXYPHENYL)BUTYL)-2-HEPTYL-4-OXO-5-THIAZOLIDINE"
+4PVU_A.pdb,4PVU,A,FALSE,FALSE,,,,,
+4PVU_B.pdb,4PVU,B,TRUE,FALSE,,,,MGZ,(2R)-(4-chlorophenyl)[3-(trifluoromethyl)phenoxy]ethanoic acid
+4PWL_A.pdb,4PWL,A,TRUE,FALSE,,,,MSZ,(2S)-(4-chlorophenyl)[3-(trifluoromethyl)phenoxy]ethanoic acid
+4PWL_B.pdb,4PWL,B,FALSE,FALSE,,,,,
+4R06_A.pdb,4R06,A,TRUE,FALSE,,,,"3E7,SO4",1-(naphthalen-1-ylsulfonyl)-N-[(1S)-1-phenylpropyl]-1H-indole-5-carboxamide
+4R06_B.pdb,4R06,B,FALSE,FALSE,,,,,
+4R2U_A.pdb,4R2U,A,TRUE,FALSE,,,,3JX,"4'-[(2,3-dimethyl-5-{[(1S)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+4R2U_D.pdb,4R2U,D,TRUE,FALSE,,,,3JX,"4'-[(2,3-dimethyl-5-{[(1S)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+4R6S_A.pdb,4R6S,A,TRUE,FALSE,,,,3K2,"4'-[(2,3-dimethyl-5-{[(1R)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+4R6S_B.pdb,4R6S,B,TRUE,FALSE,,,,3K2,"4'-[(2,3-dimethyl-5-{[(1R)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+4XLD_A.pdb,4XLD,A,TRUE,FALSE,,,,"BRL,FMT","2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL),FORMIC ACID"
+4XTA_A.pdb,4XTA,A,TRUE,FALSE,,,,DIF,"2-[2,6-DICHLOROPHENYL)AMINO]BENZENEACETIC ACID"
+4XTA_B.pdb,4XTA,B,TRUE,FALSE,,,,DIF,"2-[2,6-DICHLOROPHENYL)AMINO]BENZENEACETIC ACID"
+4XUH_A.pdb,4XUH,A,TRUE,FALSE,,,,SFI,2-[(3Z)-6-fluoranyl-2-methyl-3-[(4-methylsulfanylphenyl)methylidene]inden-1-yl]ethanoic acid
+4XUH_B.pdb,4XUH,B,TRUE,FALSE,,,,SFI,2-[(3Z)-6-fluoranyl-2-methyl-3-[(4-methylsulfanylphenyl)methylidene]inden-1-yl]ethanoic acid
+4XUM_A.pdb,4XUM,A,TRUE,FALSE,,,,IMN,INDOMETHACIN
+4XUM_B.pdb,4XUM,B,TRUE,FALSE,,,,IMN,INDOMETHACIN
+4Y29_A.pdb,4Y29,A,TRUE,TRUE,B,10,PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,CTI,"1,2-dimethoxy-12-methyl[1,3]benzodioxolo[5,6-c]phenanthridin-12-ium"
+4YT1_A.pdb,4YT1,A,FALSE,FALSE,,,,,
+4YT1_B.pdb,4YT1,B,TRUE,FALSE,,,,JJB,N-(benzylsulfonyl)-4-propoxy-3-({[4-(pyrimidin-2-yl)benzoyl]amino}methyl)benzamide
+5AZV_A.pdb,5AZV,A,TRUE,FALSE,,,,4M5,"(4~{Z},7~{Z},10~{Z},13~{Z},19~{Z})-17-oxidanylidenedocosa-4,7,10,13,19-pentaenoic acid"
+5AZV_B.pdb,5AZV,B,TRUE,FALSE,,,,4M5,"(4~{Z},7~{Z},10~{Z},13~{Z},19~{Z})-17-oxidanylidenedocosa-4,7,10,13,19-pentaenoic acid"
+5DSH_A.pdb,5DSH,A,TRUE,FALSE,,,,6BH,N-[3-(benzyloxy)phenyl]-3-nitrobenzamide
+5DV3_A.pdb,5DV3,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,B05,N-[2-(benzyloxy)phenyl]-3-nitrobenzamide
+5DV6_A.pdb,5DV6,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,B4H,N-methylidene-3-nitrobenzamide
+5DV8_A.pdb,5DV8,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,T51,N-[2-({2-[({4-[(4-methylpiperazin-1-yl)methyl]benzoyl}amino)methyl]benzyl}oxy)phenyl]-3-nitrobenzamide
+5DVC_A.pdb,5DVC,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,T53,N-[2-({3-[({4-[(4-methylpiperazin-1-yl)methyl]benzoyl}amino)methyl]benzyl}oxy)phenyl]-3-nitrobenzamide
+5DWL_A.pdb,5DWL,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,3JX,"4'-[(2,3-dimethyl-5-{[(1S)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid"
+5F9B_A.pdb,5F9B,A,FALSE,FALSE,,,,,
+5F9B_B.pdb,5F9B,B,TRUE,FALSE,,,,5VN,Caulophyllogenin
+5GTN_A.pdb,5GTN,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR COACTIVATOR 1,Q35,"2-[4-[5-[(1~{R})-1-[(3,5-dimethoxyphenyl)carbamoyl-(phenylmethyl)carbamoyl]oxypropyl]-1,2-oxazol-3-yl]phenoxy]-2-methyl-propanoic acid"
+5GTO_A.pdb,5GTO,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,"GOL,MYR,T35","MYRISTIC ACID,2-[4-[5-[(1~{S})-1-[(3,5-dimethoxyphenyl)carbamoyl-(phenylmethyl)carbamoyl]oxypropyl]-1,2-oxazol-3-yl]phenoxy]-2-methyl-propanoic acid"
+5GTP_A.pdb,5GTP,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,"GOL,MYR",MYRISTIC ACID
+5HZC_A.pdb,5HZC,A,TRUE,FALSE,,,,65W,2-methyl-2-[4-(naphthalen-1-yl)phenoxy]propanoic acid
+5HZC_B.pdb,5HZC,B,TRUE,FALSE,,,,65W,2-methyl-2-[4-(naphthalen-1-yl)phenoxy]propanoic acid
+5JI0_D.pdb,5JI0,D,TRUE,TRUE,E,19,NUCLEAR RECEPTOR COACTIVATOR 1,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+5LSG_A.pdb,5LSG,A,TRUE,FALSE,,,,QZQ,Betulinic Acid
+5LSG_B.pdb,5LSG,B,FALSE,FALSE,,,,,
+5TTO_A.pdb,5TTO,A,TRUE,FALSE,,,,7KK,"4-bromo-N-{3,5-dichloro-4-[(quinolin-3-yl)oxy]phenyl}-2,5-difluorobenzene-1-sulfonamide"
+5TTO_B.pdb,5TTO,B,TRUE,FALSE,,,,7KK,"4-bromo-N-{3,5-dichloro-4-[(quinolin-3-yl)oxy]phenyl}-2,5-difluorobenzene-1-sulfonamide"
+5TWO_A.pdb,5TWO,A,TRUE,TRUE,B,11,PRO-SER-LEU-LEU-LYS-LYS-LEU-LEU-LEU-ALA-PRO,7MV,N-benzyl-1-[(4-chloro-3-fluorophenyl)methyl]-1H-indole-5-carboxamide
+5U5L_A.pdb,5U5L,A,TRUE,FALSE,,,,7VA,"(5S)-5-({4-[(6-methoxy-1-methyl-1H-benzimidazol-2-yl)methoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione"
+5U5L_B.pdb,5U5L,B,FALSE,FALSE,,,,,
+5UGM_A.pdb,5UGM,A,TRUE,FALSE,,,,"8A7,KNA","(5R)-5-({4-[2-(5-methyl-2-phenyl-1,3-oxazol-4-yl)ethoxy]-1-benzothiophen-7-yl}methyl)-1,3-thiazolidine-2,4-dione,nonanoic acid"
+5UGM_B.pdb,5UGM,B,TRUE,FALSE,,,,"8A7,KNA","(5R)-5-({4-[2-(5-methyl-2-phenyl-1,3-oxazol-4-yl)ethoxy]-1-benzothiophen-7-yl}methyl)-1,3-thiazolidine-2,4-dione,nonanoic acid"
+5WQX_A.pdb,5WQX,A,TRUE,FALSE,,,,T65,2-[E-(E-2-oxidanylidenehexadec-5-enylidene)amino]ethanoic acid
+5WQX_B.pdb,5WQX,B,FALSE,FALSE,,,,,
+5WR0_A.pdb,5WR0,A,TRUE,FALSE,,,,8Y0,"(E)-N-[(3E)-2-oxo-16-(8-{6-[(trifluoroacetyl)amino]hexanoyl}-8,9-dihydro-1H-dibenzo[b,f][1,2,3]triazolo[4,5-d]azocin-1-yl)hexadec-3-en-1-ylidene]glycine"
+5WR0_B.pdb,5WR0,B,FALSE,FALSE,,,,,
+5WR1_A.pdb,5WR1,A,TRUE,FALSE,,,,8XO,2-[E-(E-16-azido-2-oxidanylidene-hexadec-3-enylidene)amino]ethanoic acid
+5WR1_B.pdb,5WR1,B,FALSE,FALSE,,,,,
+5Y2O_A.pdb,5Y2O,A,TRUE,FALSE,,,,8N6,"(5S)-5-[[4-[2-(5-ethylpyridin-2-yl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+5Y2O_B.pdb,5Y2O,B,FALSE,FALSE,,,,,
+5Y2T_A.pdb,5Y2T,A,TRUE,FALSE,,,,8LX,"(5S)-5-[[4-[2-[[6-(4-methoxyphenoxy)pyrimidin-4-yl]-methyl-amino]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+5Y2T_B.pdb,5Y2T,B,TRUE,FALSE,,,,8LX,"(5S)-5-[[4-[2-[[6-(4-methoxyphenoxy)pyrimidin-4-yl]-methyl-amino]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+5YCN_A.pdb,5YCN,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,8LX,"(5S)-5-[[4-[2-[[6-(4-methoxyphenoxy)pyrimidin-4-yl]-methyl-amino]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+5YCP_A.pdb,5YCP,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+5Z5S_A.pdb,5Z5S,A,TRUE,TRUE,C,10,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,"CL,RTE",3-{[6-(4-chloro-3-fluorophenoxy)-1-methyl-1H-benzimidazol-2-yl]methoxy}benzoic acid
+5Z6S_A.pdb,5Z6S,A,TRUE,TRUE,C,10,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,"CL,RTF","3-[[6-(3,5-dimethylpyridin-2-yl)oxy-1-methyl-benzimidazol-2-yl]methoxy]benzoic acid"
+6AD9_A.pdb,6AD9,A,TRUE,TRUE,B,10,12-MER PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED,KK4,"3-[(1E)-1-{8-[(4-methyl-2-propyl-1H-benzimidazol-1-yl)methyl]dibenzo[b,e]oxepin-11(6H)-ylidene}ethyl]-1,2,4-oxadiazol-5(4H)-one"
+6AN1_A.pdb,6AN1,A,TRUE,FALSE,,,,BKY,"4-({2-[(1,3-dioxo-1,3-dihydro-2H-inden-2-ylidene)methyl]phenoxy}methyl)benzoic acid"
+6AN1_B.pdb,6AN1,B,FALSE,FALSE,,,,,
+6AUG_A.pdb,6-Aug,A,TRUE,FALSE,,,,"BXG,KNA","2-chloro-N-(6-methoxyquinolin-4-yl)-5-nitrobenzamide,nonanoic acid"
+6AUG_B.pdb,6-Aug,B,TRUE,FALSE,,,,BXG,2-chloro-N-(6-methoxyquinolin-4-yl)-5-nitrobenzamide
+6AVI_A.pdb,6AVI,A,TRUE,FALSE,,,,"GW9,KNA","2-chloro-5-nitro-N-phenylbenzamide,nonanoic acid"
+6AVI_B.pdb,6AVI,B,TRUE,FALSE,,,,"GW9,KNA","2-chloro-5-nitro-N-phenylbenzamide,nonanoic acid"
+6C1I_A.pdb,6C1I,A,TRUE,FALSE,,,,"EEY,KNA","2-chloro-5-nitro-N-(pyridin-4-yl)benzamide,nonanoic acid"
+6C1I_B.pdb,6C1I,B,TRUE,FALSE,,,,"EEY,KNA","2-chloro-5-nitro-N-(pyridin-4-yl)benzamide,nonanoic acid"
+6C5Q_A.pdb,6C5Q,A,TRUE,FALSE,,,,"CSO,EKS","S-HYDROXYCYSTEINE,2-{3-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]phenoxy}-2-methylpropanoic acid"
+6C5T_A.pdb,6C5T,A,TRUE,FALSE,,,,"CSO,EKP","S-HYDROXYCYSTEINE,2-{4-[(5-{[(1R)-1-(3-cyclopropylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]phenyl}-2-methylpropanoic acid"
+6D3E_A.pdb,6D3E,A,TRUE,FALSE,,,,FT7,"1-[(2,4-difluorophenyl)methyl]-2,3-dimethyl-N-[(1R)-1-phenylpropyl]-1H-indole-5-carboxamide"
+6D3E_B.pdb,6D3E,B,FALSE,FALSE,,,,,
+6D8X_A.pdb,6D8X,A,TRUE,FALSE,,,,"EDK,FLC,GOL,NA","(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid,CITRATE ANION"
+6D94_A.pdb,6D94,A,TRUE,TRUE,B,15,MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION SUBUNIT 1,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6DBH_A.pdb,6DBH,A,TRUE,FALSE,,,,"CL,G3S","4-{2-[(2,3-dioxo-1-pentyl-2,3-dihydro-1H-indol-5-yl)sulfanyl]ethyl}benzoic acid"
+6DBH_B.pdb,6DBH,B,TRUE,FALSE,,,,"CL,G3S","4-{2-[(2,3-dioxo-1-pentyl-2,3-dihydro-1H-indol-5-yl)sulfanyl]ethyl}benzoic acid"
+6DCU_A.pdb,6DCU,A,TRUE,FALSE,,,,NZA,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+6DCU_B.pdb,6DCU,B,TRUE,FALSE,,,,NZA,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+6DGL_A.pdb,6DGL,A,TRUE,FALSE,,,,GEV,"(5Z)-5-({4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propanoyl]phenyl}methylidene)-1,3-thiazolidine-2,4-dione"
+6DGL_B.pdb,6DGL,B,TRUE,FALSE,,,,GEV,"(5Z)-5-({4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propanoyl]phenyl}methylidene)-1,3-thiazolidine-2,4-dione"
+6DGO_A.pdb,6DGO,A,TRUE,FALSE,,,,GD4,"(5S)-5-[(4-{[(2R)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2H-1-benzopyran-2-yl]methoxy}phenyl)methyl]-1,3-thiazolidine-2,4-dione"
+6DGO_B.pdb,6DGO,B,FALSE,FALSE,,,,,
+6DGP_A.pdb,6DGP,A,FALSE,TRUE,C,12,TRAP220 COACTIVATOR PEPTIDE (MEDIATOR OF RNA POLYMERASE II,,
+6DGP_B.pdb,6DGP,B,FALSE,TRUE,D,12,TRAP220 COACTIVATOR PEPTIDE (MEDIATOR OF RNA POLYMERASE II,,
+6DGQ_A.pdb,6DGQ,A,TRUE,FALSE,,,,GBV,"N-(2-{4-[(2,4-dioxo-3,4-dihydro-2H-1lambda~4~,3-thiazol-5-yl)methyl]phenoxy}ethyl)-5-[(3R)-1,2-dithiolan-3-yl]pentanamide"
+6DGQ_B.pdb,6DGQ,B,FALSE,FALSE,,,,,
+6DGR_A.pdb,6DGR,A,TRUE,FALSE,,,,GDY,"(5Z)-5-({4-[2-(thiophen-2-yl)ethoxy]phenyl}methylidene)-1,3-thiazolidine-2,4-dione"
+6DGR_B.pdb,6DGR,B,FALSE,FALSE,,,,,
+6DH9_A.pdb,6DH9,A,TRUE,FALSE,,,,"GH1,KNA","(5S)-5-({4-[2-(3-methoxyphenyl)-2-oxoethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione,nonanoic acid"
+6DH9_B.pdb,6DH9,B,FALSE,FALSE,,,,,
+6DHA_A.pdb,6DHA,A,TRUE,FALSE,,,,"GFV,KNA","Hydroxy Pioglitazone (M-IV),nonanoic acid"
+6DHA_B.pdb,6DHA,B,TRUE,FALSE,,,,GFV,Hydroxy Pioglitazone (M-IV)
+6E5A_A.pdb,6E5A,A,TRUE,FALSE,,,,"CME,HV4","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,(5Z)-5-({4-[(prop-2-yn-1-yl)oxy]phenyl}methylidene)-2-sulfanylidene-1,3-thiazolidin-4-one"
+6E5A_B.pdb,6E5A,B,TRUE,FALSE,,,,"CME,HV4","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,(5Z)-5-({4-[(prop-2-yn-1-yl)oxy]phenyl}methylidene)-2-sulfanylidene-1,3-thiazolidin-4-one"
+6ENQ_A.pdb,6ENQ,A,TRUE,FALSE,,,,BJB,"4-[1-(1,3-benzothiazol-6-ylsulfonyl)-5-chloro-indol-2-yl]butanoic acid"
+6ENQ_B.pdb,6ENQ,B,FALSE,FALSE,,,,,
+6F2L_A.pdb,6F2L,A,TRUE,FALSE,,,,AXY,(2S)-3-(biphenyl-4-yl)-2-(biphenyl-4-yloxy)propanoic acid
+6F2L_B.pdb,6F2L,B,FALSE,FALSE,,,,,
+6FZF_A.pdb,6FZF,A,TRUE,TRUE,C,13,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6FZF_B.pdb,6FZF,B,TRUE,TRUE,D,13,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6FZG_A.pdb,6FZG,A,TRUE,FALSE,,,,"CL,EDK",(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6FZJ_A.pdb,6FZJ,A,TRUE,TRUE,C,12,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,"CL,EDK,IOD","(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid,IODIDE ION"
+6FZJ_B.pdb,6FZJ,B,TRUE,TRUE,D,12,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,"CL,EDK,IOD","(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid,IODIDE ION"
+6FZP_A.pdb,6FZP,A,TRUE,FALSE,,,,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6FZY_A.pdb,6FZY,A,FALSE,FALSE,,,,,
+6FZY_B.pdb,6FZY,B,FALSE,FALSE,,,,,
+6ICJ_A.pdb,6ICJ,A,TRUE,TRUE,B,11,NUCLEAR RECEPTOR COACTIVATOR 1,"A0L,GOL","2-butyl-5-[(3-tert-butyl-1,2,4-oxadiazol-5-yl)methyl]-6-methyl-3-{[2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)[1,1'-biphenyl]-4-yl]methyl}pyrimidin-4(3H)-one"
+6IJR_A.pdb,6IJR,A,TRUE,FALSE,,,,A9C,"N-{[3-({[(1S,2R)-2-{[(2E)-2-cyano-4,4-dimethylpent-2-enoyl]amino}cyclopentyl]oxy}methyl)phenyl]methyl}-4-[(4-methylpiperazin-1-yl)methyl]benzamide"
+6IJR_C.pdb,6IJR,C,TRUE,TRUE,D,10,16 MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,A9C,"N-{[3-({[(1S,2R)-2-{[(2E)-2-cyano-4,4-dimethylpent-2-enoyl]amino}cyclopentyl]oxy}methyl)phenyl]methyl}-4-[(4-methylpiperazin-1-yl)methyl]benzamide"
+6IJS_A.pdb,6IJS,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,A9F,"N-{[3-({[(1R,2S)-2-{[(2E)-2-cyano-4,4-dimethylpent-2-enoyl]amino}cyclopentyl]oxy}methyl)phenyl]methyl}-4-[(4-methylpiperazin-1-yl)methyl]benzamide"
+6ILQ_A.pdb,6ILQ,A,TRUE,TRUE,B,14,NUCLEAR RECEPTOR COACTIVATOR 1,AE0,"ethyl [2-butyl-6-oxo-1-{[2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)[1,1'-biphenyl]-4-yl]methyl}-4-(propan-2-yl)-1,6-dihydropyrimidin-5-yl]acetate"
+6IZM_A.pdb,6IZM,A,TRUE,TRUE,C,10,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,B0X,"3-[[6-(2,6-dimethylpyridin-3-yl)oxy-1-methyl-benzimidazol-2-yl]methoxy]benzoic acid"
+6IZN_A.pdb,6IZN,A,TRUE,TRUE,C,10,PEPTIDE FROM PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR,B1O,"3-[[6-(2,6-dimethylpyridin-3-yl)oxy-7-fluoranyl-1-methyl-benzimidazol-2-yl]methoxy]benzoic acid"
+6JEY_A.pdb,6JEY,A,TRUE,FALSE,,,,EJL,"(9Z,12Z,15Z,18Z,21Z)-5-oxidanylidenetetracosa-9,12,15,18,21-pentaen-6-ynoic acid"
+6JEY_B.pdb,6JEY,B,TRUE,FALSE,,,,EJL,"(9Z,12Z,15Z,18Z,21Z)-5-oxidanylidenetetracosa-9,12,15,18,21-pentaen-6-ynoic acid"
+6JF0_A.pdb,6JF0,A,TRUE,FALSE,,,,EB6,methyl (2~{S})-3-[4-[3-(4-methoxy-2-oxidanyl-phenyl)prop-2-ynoyloxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoate
+6JF0_B.pdb,6JF0,B,TRUE,FALSE,,,,EBF,7-methoxychromen-2-one
+6JQ7_A.pdb,6JQ7,A,FALSE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,,
+6K0T_A.pdb,6K0T,A,TRUE,TRUE,B,10,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,"CME,CTU","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,3-[(1~{E})-1-[8-[(8-chloranyl-2-cyclopropyl-imidazo[1,2-a]pyridin-3-yl)methyl]-3-fluoranyl-6~{H}-benzo[c][1]benzoxepin-11-ylidene]ethyl]-4~{H}-1,2,4-oxadiazol-5-one"
+6K0T_C.pdb,6K0T,C,TRUE,TRUE,D,12,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,"CME,CTU","S,S-(2-HYDROXYETHYL)THIOCYSTEINE,3-[(1~{E})-1-[8-[(8-chloranyl-2-cyclopropyl-imidazo[1,2-a]pyridin-3-yl)methyl]-3-fluoranyl-6~{H}-benzo[c][1]benzoxepin-11-ylidene]ethyl]-4~{H}-1,2,4-oxadiazol-5-one"
+6KTM_A.pdb,6KTM,A,FALSE,TRUE,B,10,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,,
+6KTN_A.pdb,6KTN,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,STI,4-(4-METHYL-PIPERAZIN-1-YLMETHYL)-N-[4-METHYL-3-(4-PYRIDIN-3-YL-PYRIMIDIN-2-YLAMINO)-PHENYL]-BENZAMIDE
+6L89_A.pdb,6L89,A,TRUE,FALSE,,,,E7C,methyl (2R)-3-(4-hydroxyphenyl)-2-[[3-(3-methylbut-2-enyl)-4-oxidanyl-phenyl]methyl]-4-oxidanyl-5-oxidanylidene-furan-2-carboxylate
+6L89_B.pdb,6L89,B,TRUE,FALSE,,,,E7C,methyl (2R)-3-(4-hydroxyphenyl)-2-[[3-(3-methylbut-2-enyl)-4-oxidanyl-phenyl]methyl]-4-oxidanyl-5-oxidanylidene-furan-2-carboxylate
+6L8B_A.pdb,6L8B,A,FALSE,FALSE,,,,,
+6L8B_B.pdb,6L8B,B,FALSE,FALSE,,,,,
+6MCZ_A.pdb,6MCZ,A,TRUE,FALSE,,,,ACD,ARACHIDONIC ACID
+6MCZ_B.pdb,6MCZ,B,TRUE,FALSE,,,,ACD,ARACHIDONIC ACID
+6MD0_A.pdb,6MD0,A,TRUE,FALSE,,,,OLA,OLEIC ACID
+6MD0_B.pdb,6MD0,B,TRUE,FALSE,,,,OLA,OLEIC ACID
+6MD1_A.pdb,6MD1,A,TRUE,FALSE,,,,OLA,OLEIC ACID
+6MD1_B.pdb,6MD1,B,TRUE,FALSE,,,,"GW9,OLA","2-chloro-5-nitro-N-phenylbenzamide,OLEIC ACID"
+6MD2_A.pdb,6MD2,A,TRUE,FALSE,,,,"ACD,GW9","ARACHIDONIC ACID,2-chloro-5-nitro-N-phenylbenzamide"
+6MD2_B.pdb,6MD2,B,TRUE,FALSE,,,,"ACD,GW9","ARACHIDONIC ACID,2-chloro-5-nitro-N-phenylbenzamide"
+6MD4_A.pdb,6MD4,A,TRUE,FALSE,,,,"BRL,OLA","2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL),OLEIC ACID"
+6MD4_B.pdb,6MD4,B,FALSE,FALSE,,,,,
+6MS7_A.pdb,6MS7,A,TRUE,TRUE,B,11,PGC1 LXXLL MOTIF,V77,{[(1S)-1-(4-chlorophenyl)octyl]oxy}acetic acid
+6O67_A.pdb,6O67,A,TRUE,FALSE,,,,"KNA,LO7","nonanoic acid,Mitoglitazone"
+6O67_B.pdb,6O67,B,FALSE,FALSE,,,,,
+6O68_A.pdb,6O68,A,TRUE,FALSE,,,,LO4,Ciglitazone
+6O68_B.pdb,6O68,B,FALSE,FALSE,,,,,
+6ONI_B.pdb,6ONI,B,TRUE,TRUE,D,13,NCOR ISOFORM C,EEY,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide
+6ONJ_A.pdb,6ONJ,A,TRUE,TRUE,C,14,"MEDIATOR OF RNA POLYMERASE II TRANSCRIPTION SUBUNIT 1,",BRL,"2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+6PDZ_A.pdb,6PDZ,A,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,EEY,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide
+6PDZ_B.pdb,6PDZ,B,TRUE,TRUE,C,13,NUCLEAR RECEPTOR COREPRESSOR 2,EEY,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide
+6QJ5_A.pdb,6QJ5,A,TRUE,FALSE,,,,H8R,(2~{S})-3-methyl-2-[(4-octoxyphenyl)carbonylamino]butanoic acid
+6QJ5_B.pdb,6QJ5,B,FALSE,FALSE,,,,,
+6T1S_A.pdb,6T1S,A,TRUE,FALSE,,,,"EDK,SO4",(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6T1V_A.pdb,6T1V,A,TRUE,TRUE,C,10,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6T6B_A.pdb,6T6B,A,TRUE,FALSE,,,,MLQ,"(2~{R})-2-[[6-[(2,4-dichlorophenyl)sulfonylamino]-1,3-benzothiazol-2-yl]sulfanyl]octanoic acid"
+6T9C_A.pdb,6T9C,A,TRUE,FALSE,,,,MX8,4-hexoxy-~{N}-[(2~{S})-3-methyl-1-(oxidanylamino)-1-oxidanylidene-butan-2-yl]benzamide
+6T9C_B.pdb,6T9C,B,FALSE,FALSE,,,,,
+6TDC_A.pdb,6TDC,A,TRUE,FALSE,,,,"4F1,GOL",4-{1-[2-chloro-6-(trifluoromethyl)benzoyl]-1H-indazol-3-yl}benzoic acid
+6TSG_A.pdb,6TSG,A,TRUE,FALSE,,,,T4A,"3,3',5,5'-TETRAIODOTHYROACETIC ACID"
+6VZL_A.pdb,6VZL,A,TRUE,FALSE,,,,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6VZL_B.pdb,6VZL,B,TRUE,FALSE,,,,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+6VZM_A.pdb,6VZM,A,TRUE,FALSE,,,,GEV,"(5Z)-5-({4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propanoyl]phenyl}methylidene)-1,3-thiazolidine-2,4-dione"
+6VZM_B.pdb,6VZM,B,TRUE,FALSE,,,,GEV,"(5Z)-5-({4-[3-(5-methyl-2-phenyl-1,3-oxazol-4-yl)propanoyl]phenyl}methylidene)-1,3-thiazolidine-2,4-dione"
+6VZN_A.pdb,6VZN,A,FALSE,FALSE,,,,,
+6VZN_B.pdb,6VZN,B,FALSE,FALSE,,,,,
+6VZO_A.pdb,6VZO,A,FALSE,FALSE,,,,,
+6VZO_B.pdb,6VZO,B,FALSE,FALSE,,,,,
+6Y3U_A.pdb,6Y3U,A,TRUE,FALSE,,,,MLQ,"(2~{R})-2-[[6-[(2,4-dichlorophenyl)sulfonylamino]-1,3-benzothiazol-2-yl]sulfanyl]octanoic acid"
+6ZLY_A.pdb,6ZLY,A,TRUE,FALSE,,,,QMH,(2~{S})-2-[(4-hexoxyphenyl)carbonylamino]-3-methyl-butanoic acid
+6ZLY_B.pdb,6ZLY,B,FALSE,FALSE,,,,,
+7A7H_A.pdb,7A7H,A,TRUE,FALSE,,,,"EDO,TK9",(2~{R})-2-[[4-[[4-methoxy-2-(trifluoromethyl)phenyl]methylcarbamoyl]phenyl]methyl]butanoic acid
+7AHJ_A.pdb,7AHJ,A,TRUE,FALSE,,,,570,2-(2-BENZOYL-PHENYLAMINO)-3-{4-[2-(5-METHYL-2-PHENYL-OXAZOL-4-YL)-ETHOXY]-PHENYL}-PROPIONIC ACID
+7AHJ_B.pdb,7AHJ,B,FALSE,FALSE,,,,,
+7AWC_A.pdb,7AWC,A,TRUE,FALSE,,,,"BRL,GOL","2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL)"
+7AWD_A.pdb,7AWD,A,TRUE,FALSE,,,,"CIT,GOL,NQD","CITRIC ACID,(2Z,6E,10E)-13-[(2R)-6-hydroxy-2,8-dimethyl-3,4-dihydro-2H-1-benzopyran-2-yl]-2,6,10-trimethyltrideca-2,6,10-trienoic acid"
+7CXE_A.pdb,7CXE,A,FALSE,FALSE,,,,,
+7CXE_B.pdb,7CXE,B,FALSE,FALSE,,,,,
+7CXF_A.pdb,7CXF,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,MLA,MALONIC ACID
+7CXG_A.pdb,7CXG,A,TRUE,FALSE,,,,GOL,
+7CXG_B.pdb,7CXG,B,TRUE,FALSE,,,,GOL,
+7CXH_A.pdb,7CXH,A,FALSE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,,
+7CXI_A.pdb,7CXI,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,MLI,MALONATE ION
+7CXJ_A.pdb,7CXJ,A,FALSE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,,
+7CXK_A.pdb,7CXK,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,MLI,MALONATE ION
+7CXL_A.pdb,7CXL,A,TRUE,TRUE,B,11,16-MER PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,MLA,MALONIC ACID
+7E0A_A.pdb,7E0A,A,TRUE,FALSE,,,,EWR,(2S)-2-ethoxy-3-[4-[2-[2-methyl-5-(4-methylsulfanylphenyl)pyrrol-1-yl]ethoxy]phenyl]propanoic acid
+7E2O_A.pdb,7E2O,A,FALSE,FALSE,,,,,
+7E2O_B.pdb,7E2O,B,FALSE,FALSE,,,,,
+7EFQ_A.pdb,7EFQ,A,TRUE,FALSE,,,,J3F,"(5S)-5-[[4-[2-[[7-(diethylamino)-2-oxidanylidene-chromen-4-yl]-methyl-amino]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+7EFQ_B.pdb,7EFQ,B,FALSE,FALSE,,,,,
+7JQG_A.pdb,7JQG,A,TRUE,FALSE,,,,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+7JQG_B.pdb,7JQG,B,TRUE,FALSE,,,,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+7LOT_A.pdb,7LOT,A,TRUE,FALSE,,,,Y9A,"~{N}-[[3-[(4-methylphenyl)methoxy]phenyl]methyl]-1~{H}-1,2,3,4-tetrazol-5-amine"
+7LOT_B.pdb,7LOT,B,TRUE,FALSE,,,,Y9A,"~{N}-[[3-[(4-methylphenyl)methoxy]phenyl]methyl]-1~{H}-1,2,3,4-tetrazol-5-amine"
+7P4E_A.pdb,7P4E,A,TRUE,FALSE,,,,"5IV,EDO,SO4",~{N}-[[4-(cyclopropylsulfonylamino)-2-(trifluoromethyl)phenyl]methyl]-1-[(3-fluorophenyl)methyl]indole-5-carboxamide
+7QB1_A.pdb,7QB1,A,TRUE,FALSE,,,,"9WQ,SO4","3-[(3,4-dichlorophenyl)methyl]-4-oxidanylidene-6-phenoxy-phthalazine-1-carboxylic acid"
+7QB1_B.pdb,7QB1,B,TRUE,FALSE,,,,"9WQ,SO4","3-[(3,4-dichlorophenyl)methyl]-4-oxidanylidene-6-phenoxy-phthalazine-1-carboxylic acid"
+7RLE_A.pdb,7RLE,A,TRUE,TRUE,B,18,CREB-BINDING PROTEIN,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+7RLE_C.pdb,7RLE,C,TRUE,TRUE,D,14,CREB-BINDING PROTEIN,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+7SQA_A.pdb,7SQA,A,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,A8R,"(2S)-2-{5-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+7SQA_B.pdb,7SQA,B,TRUE,TRUE,C,15,NUCLEAR RECEPTOR COREPRESSOR 2,A8R,"(2S)-2-{5-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+7SQB_A.pdb,7SQB,A,TRUE,FALSE,,,,A8R,"(2S)-2-{5-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+7WGO_A.pdb,7WGO,A,TRUE,TRUE,B,12,15-MERIC PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,PEM,2-[P-[2-P-CHLOROBENZAMIDO)ETHYL]PHENOXY]-2-METHYLPROPIONIC ACID
+7WGP_A.pdb,7WGP,A,TRUE,TRUE,B,11,15-MERIC PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,F5A,2-[4-(4-chlorobenzene-1-carbonyl)phenoxy]-2-methylpropanoic acid
+7WGQ_A.pdb,7WGQ,A,TRUE,TRUE,B,10,15-MERIC PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,P7F,"(2~{R})-2-[3-[[1,3-benzoxazol-2-yl-[3-(4-methoxyphenoxy)propyl]amino]methyl]phenoxy]butanoic acid"
+7WOX_A.pdb,7WOX,A,TRUE,FALSE,,,,5YW,N-[[5-(3-phenylprop-2-ynoylamino)-2-propoxy-phenyl]methyl]-4-pyrimidin-2-yl-benzamide
+7WOX_B.pdb,7WOX,B,FALSE,FALSE,,,,,
+8ADF_A.pdb,8ADF,A,TRUE,FALSE,,,,LRA,(2R)-3-(4-bromophenyl)-2-(3-hydroxyphenyl)-4-oxidanyl-2H-furan-5-one
+8ADF_B.pdb,8ADF,B,TRUE,FALSE,,,,LRA,(2R)-3-(4-bromophenyl)-2-(3-hydroxyphenyl)-4-oxidanyl-2H-furan-5-one
+8AQM_A.pdb,8AQM,A,TRUE,TRUE,C,13,NUCLEAR RECEPTOR COREPRESSOR 2,O2O,"2-chloranyl-~{N}-[2-(3-methylphenyl)-1,3-benzoxazol-5-yl]-5-nitro-benzamide"
+8AQM_B.pdb,8AQM,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,O2O,"2-chloranyl-~{N}-[2-(3-methylphenyl)-1,3-benzoxazol-5-yl]-5-nitro-benzamide"
+8AQN_A.pdb,8AQN,A,TRUE,TRUE,C,21,NUCLEAR RECEPTOR COREPRESSOR 2,"GOL,O0U","2-chloranyl-~{N}-[2-(4-ethylphenyl)-1,3-benzoxazol-5-yl]-5-nitro-benzamide"
+8AQN_B.pdb,8AQN,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,O0U,"2-chloranyl-~{N}-[2-(4-ethylphenyl)-1,3-benzoxazol-5-yl]-5-nitro-benzamide"
+8ATY_A.pdb,8ATY,A,TRUE,FALSE,,,,"GOL,O7O","2-[4-chloranyl-6-(5,6,7,8-tetrahydronaphthalen-1-ylamino)pyrimidin-2-yl]sulfanylethanoic acid"
+8ATZ_A.pdb,8ATZ,A,TRUE,FALSE,,,,"GOL,O86",2-[4-chloranyl-6-[[3-(2-phenylethoxy)phenyl]amino]pyrimidin-2-yl]sulfanylethanoic acid
+8B8W_A.pdb,8B8W,A,TRUE,TRUE,C,12,NUCLEAR RECEPTOR COREPRESSOR 2,"GOL,Q2X","4-chloranyl-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B8W_B.pdb,8B8W,B,TRUE,TRUE,D,13,NUCLEAR RECEPTOR COREPRESSOR 2,Q2X,"4-chloranyl-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B8X_A.pdb,8B8X,A,TRUE,TRUE,C,12,NUCLEAR RECEPTOR COREPRESSOR 2,A8R,"(2S)-2-{5-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+8B8X_B.pdb,8B8X,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,A8R,"(2S)-2-{5-[(5-{[(1S)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+8B8Y_A.pdb,8B8Y,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q33,"4,5-bis(chloranyl)-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B8Y_B.pdb,8B8Y,B,TRUE,TRUE,D,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q33,"4,5-bis(chloranyl)-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B8Z_A.pdb,8B8Z,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q33,"4,5-bis(chloranyl)-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B8Z_B.pdb,8B8Z,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,Q33,"4,5-bis(chloranyl)-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B90_A.pdb,8B90,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q1R,"5-chloranyl-~{N}3-phenyl-~{N}1-(phenylmethyl)benzene-1,3-dicarboxamide"
+8B90_B.pdb,8B90,B,FALSE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,,
+8B91_A.pdb,8B91,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q4O,"~{N}3-[4-[bis(fluoranyl)methoxy]-3-fluoranyl-phenyl]-4-chloranyl-6-fluoranyl-~{N}1-[(2-methoxyphenyl)methyl]benzene-1,3-dicarboxamide"
+8B91_B.pdb,8B91,B,FALSE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,,
+8B92_A.pdb,8B92,A,TRUE,TRUE,C,13,NUCLEAR RECEPTOR COREPRESSOR 2,"Q5X,SO4","4-chloranyl-6-fluoranyl-~{N}3-[2-fluoranyl-4-(oxetan-3-yl)phenyl]-~{N}1-[(2-methoxyphenyl)methyl]benzene-1,3-dicarboxamide"
+8B92_B.pdb,8B92,B,TRUE,TRUE,D,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q5X,"4-chloranyl-6-fluoranyl-~{N}3-[2-fluoranyl-4-(oxetan-3-yl)phenyl]-~{N}1-[(2-methoxyphenyl)methyl]benzene-1,3-dicarboxamide"
+8B93_A.pdb,8B93,A,TRUE,TRUE,C,12,NUCLEAR RECEPTOR COREPRESSOR 2,Q8F,"4-chloranyl-6-fluoranyl-~{N}1-[[4-fluoranyl-2-(2-methoxyethoxymethyl)phenyl]methyl]-~{N}3-[2-methyl-4-(trifluoromethyl)phenyl]benzene-1,3-dicarboxamide"
+8B93_B.pdb,8B93,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,Q8F,"4-chloranyl-6-fluoranyl-~{N}1-[[4-fluoranyl-2-(2-methoxyethoxymethyl)phenyl]methyl]-~{N}3-[2-methyl-4-(trifluoromethyl)phenyl]benzene-1,3-dicarboxamide"
+8B94_A.pdb,8B94,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q5O,"~{N}3-[4-[bis(fluoranyl)methoxy]-2-methyl-phenyl]-4-chloranyl-6-fluoranyl-~{N}1-[(4-fluorophenyl)methyl]benzene-1,3-dicarboxamide"
+8B94_B.pdb,8B94,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,Q5O,"~{N}3-[4-[bis(fluoranyl)methoxy]-2-methyl-phenyl]-4-chloranyl-6-fluoranyl-~{N}1-[(4-fluorophenyl)methyl]benzene-1,3-dicarboxamide"
+8B95_A.pdb,8B95,A,TRUE,TRUE,C,11,NUCLEAR RECEPTOR COREPRESSOR 2,Q4C,"~{N}1-[[3,4-bis(fluoranyl)phenyl]methyl]-4-chloranyl-6-fluoranyl-~{N}3-(3-methyl-5-morpholin-4-yl-pyridin-2-yl)benzene-1,3-dicarboxamide"
+8B95_B.pdb,8B95,B,TRUE,TRUE,D,12,NUCLEAR RECEPTOR COREPRESSOR 2,Q4C,"~{N}1-[[3,4-bis(fluoranyl)phenyl]methyl]-4-chloranyl-6-fluoranyl-~{N}3-(3-methyl-5-morpholin-4-yl-pyridin-2-yl)benzene-1,3-dicarboxamide"
+8BF1_A.pdb,8BF1,A,FALSE,TRUE,B,11,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,,
+8BF2_A.pdb,8BF2,A,TRUE,FALSE,,,,QGL,2-[(2~{S})-2-ethylhexoxy]carbonylbenzoic acid
+8BF2_B.pdb,8BF2,B,TRUE,FALSE,,,,QGL,2-[(2~{S})-2-ethylhexoxy]carbonylbenzoic acid
+8BFF_A.pdb,8BFF,A,TRUE,FALSE,,,,QG6,"(1~{S},2~{R})-2-[(4~{R})-4-methylheptoxy]carbonylcyclohexane-1-carboxylic acid"
+8BFF_B.pdb,8BFF,B,FALSE,FALSE,,,,,
+8BFF_C.pdb,8BFF,C,FALSE,FALSE,,,,,
+8C0C_A.pdb,8C0C,A,FALSE,FALSE,,,,,
+8C0C_B.pdb,8C0C,B,TRUE,FALSE,,,,T0C,(2~{R})-2-[4-(naphthalen-1-ylmethoxy)phenyl]-4-oxidanyl-3-phenyl-2~{H}-furan-5-one
+8CPH_A.pdb,8CPH,A,TRUE,FALSE,,,,WY1,"2-({4-CHLORO-6-[(2,3-DIMETHYLPHENYL)AMINO]PYRIMIDIN-2-YL}SULFANYL)ACETIC ACID"
+8CPH_B.pdb,8CPH,B,TRUE,FALSE,,,,WY1,"2-({4-CHLORO-6-[(2,3-DIMETHYLPHENYL)AMINO]PYRIMIDIN-2-YL}SULFANYL)ACETIC ACID"
+8CPI_A.pdb,8CPI,A,TRUE,FALSE,,,,WY1,"2-({4-CHLORO-6-[(2,3-DIMETHYLPHENYL)AMINO]PYRIMIDIN-2-YL}SULFANYL)ACETIC ACID"
+8CPJ_A.pdb,8CPJ,A,TRUE,FALSE,,,,EDO,
+8DK4_A.pdb,8DK4,A,TRUE,TRUE,B,11,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,SJ9,5-(benzylcarbamoyl)-1-[(4-chloro-3-fluorophenyl)methyl]-1H-indole-2-carboxylic acid
+8DKN_A.pdb,8DKN,A,TRUE,TRUE,C,13,NUCLEAR RECEPTOR COREPRESSOR 1 PEPTIDE,"CXS,EEY,SO4","3-CYCLOHEXYL-1-PROPYLSULFONIC ACID,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide"
+8DKV_A.pdb,8DKV,A,TRUE,TRUE,C,14,NUCLEAR RECEPTOR COREPRESSOR 1,"CXS,SKL,SO4","3-CYCLOHEXYL-1-PROPYLSULFONIC ACID,2-chloro-N-[4-(5-methyl-1,3-benzoxazol-2-yl)phenyl]-5-nitrobenzamide"
+8DSY_A.pdb,8DSY,A,TRUE,FALSE,,,,TJC,"{5-[(5-{[(4-tert-butylphenyl)methyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}acetic acid"
+8DSY_B.pdb,8DSY,B,TRUE,FALSE,,,,TJC,"{5-[(5-{[(4-tert-butylphenyl)methyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}acetic acid"
+8DSZ_A.pdb,8DSZ,A,TRUE,FALSE,,,,TJO,"(2R)-2-{5-[(5-{[(1R)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+8DSZ_B.pdb,8DSZ,B,TRUE,FALSE,,,,TJO,"(2R)-2-{5-[(5-{[(1R)-1-(4-tert-butylphenyl)ethyl]carbamoyl}-2,3-dimethyl-1H-indol-1-yl)methyl]-2-chlorophenoxy}propanoic acid"
+8FHE_B.pdb,8FHE,B,TRUE,TRUE,D,11,NUCLEAR RECEPTOR COREPRESSOR 1,GW9,2-chloro-5-nitro-N-phenylbenzamide
+8FHF_A.pdb,8FHF,A,TRUE,FALSE,,,,"KNA,XZK","nonanoic acid,N-(4-carbamoylphenyl)-2-chloro-5-nitrobenzamide"
+8FHF_B.pdb,8FHF,B,TRUE,FALSE,,,,"KNA,XZK","nonanoic acid,N-(4-carbamoylphenyl)-2-chloro-5-nitrobenzamide"
+8FHG_B.pdb,8FHG,B,TRUE,TRUE,D,11,NUCLEAR RECEPTOR COREPRESSOR 1,XZK,N-(4-carbamoylphenyl)-2-chloro-5-nitrobenzamide
+8FKC_A.pdb,8FKC,A,TRUE,TRUE,D,13,NUCLEAR RECEPTOR COREPRESSOR 1,"EDO,Y5F",2-chloro-N-(5-cyanopyridin-3-yl)-5-nitrobenzamide
+8FKD_A.pdb,8FKD,A,TRUE,TRUE,D,14,NUCLEAR RECEPTOR COREPRESSOR 1,"EDO,Y5O",2-chloro-N-(6-cyanopyridin-3-yl)-5-nitrobenzamide
+8FKE_A.pdb,8FKE,A,TRUE,TRUE,D,14,NUCLEAR RECEPTOR COREPRESSOR 1,"EDO,Y5T",2-chloro-N-(2-methylpyridin-4-yl)-5-nitrobenzamide
+8FKF_A.pdb,8FKF,A,TRUE,TRUE,D,14,NUCLEAR RECEPTOR COREPRESSOR 1,"EDO,GOL,Y5X",2-chloro-N-(5-fluoropyridin-3-yl)-5-nitrobenzamide
+8FKG_A.pdb,8FKG,A,TRUE,TRUE,D,13,NUCLEAR RECEPTOR COREPRESSOR 1,"EDO,GOL,K,SO4,Y62","POTASSIUM ION,2-chloro-N-(5-cyanopyridin-2-yl)-5-nitrobenzamide"
+8HHP_A.pdb,8HHP,A,TRUE,FALSE,,,,"LRG,NZA","(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID"
+8HHQ_A.pdb,8HHQ,A,TRUE,FALSE,,,,GOA,GLYCOLIC ACID
+8HHQ_B.pdb,8HHQ,B,TRUE,FALSE,,,,GOA,GLYCOLIC ACID
+8HUM_A.pdb,8HUM,A,TRUE,TRUE,B,10,15-MERIC PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,BJB,"4-[1-(1,3-benzothiazol-6-ylsulfonyl)-5-chloro-indol-2-yl]butanoic acid"
+8HUP_A.pdb,8HUP,A,TRUE,TRUE,B,13,15-MERIC PEPTIDE FROM NUCLEAR RECEPTOR COACTIVATOR 1,KKB,Seladelpar
+8PBO_A.pdb,8PBO,A,TRUE,FALSE,,,,"GOL,SO4,Y5I","3-[2-fluoranyl-4-[3-[2-fluoranyl-4-(5-methyl-1,3,4-thiadiazol-2-yl)phenoxy]propoxy]phenyl]propanoic acid"
+8PBO_B.pdb,8PBO,B,TRUE,FALSE,,,,"GOL,SO4",
+8REJ_A.pdb,8REJ,A,TRUE,FALSE,,,,WUE,(2~{S})-2-(4-naphthalen-1-ylphenoxy)-3-phenyl-propanoic acid
+8REJ_B.pdb,8REJ,B,FALSE,FALSE,,,,,
+8SC9_A.pdb,8SC9,A,TRUE,FALSE,,,,"SO4,TAM",TRIS(HYDROXYETHYL)AMINOMETHANE
+8SC9_B.pdb,8SC9,B,TRUE,FALSE,,,,"D0D,SO4",N-[(5P)-2-chloro-5-(4-{[(1R)-1-phenylethyl]amino}quinazolin-6-yl)pyridin-3-yl]methanesulfonamide
+8U57_A.pdb,8U57,A,TRUE,FALSE,,,,"8PF,CSO,D1D","pentadecafluorooctanoic acid,S-HYDROXYCYSTEINE,(4S,5S)-1,2-DITHIANE-4,5-DIOL"
+8WFE_A.pdb,8WFE,A,TRUE,FALSE,,,,"EDO,PEG",
+8WFE_B.pdb,8WFE,B,TRUE,FALSE,,,,PEG,
+8ZFN_A.pdb,8ZFN,A,TRUE,FALSE,,,,"GW9,PLB","2-chloro-5-nitro-N-phenylbenzamide,2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+8ZFN_B.pdb,8ZFN,B,TRUE,FALSE,,,,"GW9,PLB","2-chloro-5-nitro-N-phenylbenzamide,2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+8ZFO_A.pdb,8ZFO,A,TRUE,FALSE,,,,NZA,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID
+8ZFO_B.pdb,8ZFO,B,TRUE,FALSE,,,,"GW9,NZA","2-chloro-5-nitro-N-phenylbenzamide,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID"
+8ZFP_A.pdb,8ZFP,A,TRUE,FALSE,,,,"241,GW9","(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID,2-chloro-5-nitro-N-phenylbenzamide"
+8ZFP_B.pdb,8ZFP,B,TRUE,FALSE,,,,"241,GW9","(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID,2-chloro-5-nitro-N-phenylbenzamide"
+8ZFQ_A.pdb,8ZFQ,A,TRUE,FALSE,,,,"EEY,PLB","2-chloro-5-nitro-N-(pyridin-4-yl)benzamide,2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+8ZFQ_B.pdb,8ZFQ,B,TRUE,FALSE,,,,"EEY,PLB","2-chloro-5-nitro-N-(pyridin-4-yl)benzamide,2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID"
+8ZFR_A.pdb,8ZFR,A,FALSE,FALSE,,,,,
+8ZFR_B.pdb,8ZFR,B,TRUE,FALSE,,,,"EEY,NZA","2-chloro-5-nitro-N-(pyridin-4-yl)benzamide,5-CHLORO-1-(4-CHLOROBENZYL)-3-(PHENYLTHIO)-1H-INDOLE-2-CARBOXYLIC ACID"
+8ZFS_A.pdb,8ZFS,A,TRUE,FALSE,,,,"241,EEY","(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide"
+8ZFS_B.pdb,8ZFS,B,TRUE,FALSE,,,,"241,EEY","(2S)-2-(3-{[1-(4-METHOXYBENZOYL)-2-METHYL-5-(TRIFLUOROMETHOXY)-1H-INDOL-3-YL]METHYL}PHENOXY)PROPANOIC ACID,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide"
+8ZFT_A.pdb,8ZFT,A,TRUE,FALSE,,,,"3JX,EEY","4'-[(2,3-dimethyl-5-{[(1S)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide"
+8ZFT_B.pdb,8ZFT,B,TRUE,FALSE,,,,"3JX,EEY","4'-[(2,3-dimethyl-5-{[(1S)-1-(4-nitrophenyl)ethyl]carbamoyl}-1H-indol-1-yl)methyl]biphenyl-2-carboxylic acid,2-chloro-5-nitro-N-(pyridin-4-yl)benzamide"
+9CK0_A.pdb,9CK0,A,TRUE,TRUE,B,11,NF-KAPPA-B INHIBITOR BETA,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+9CWN_A.pdb,9CWN,A,TRUE,TRUE,B,10,NUCLEAR RECEPTOR-INTERACTING PROTEIN 1,EDK,(2~{S})-3-[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]-2-[[2-(phenylcarbonyl)phenyl]amino]propanoic acid
+9F7W_A.pdb,9F7W,A,TRUE,TRUE,B,13,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,2OH,"4,4'-PROPANE-2,2-DIYLDIPHENOL"
+9F7X_A.pdb,9F7X,A,TRUE,TRUE,B,11,PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA,H3W,bisphenol-B
+9GFU_A.pdb,9GFU,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GFU_B.pdb,9GFU,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GVP_A.pdb,9GVP,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GVP_B.pdb,9GVP,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GVS_A.pdb,9GVS,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GVS_B.pdb,9GVS,B,FALSE,FALSE,,,,,
+9GVT_A.pdb,9GVT,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GVT_B.pdb,9GVT,B,FALSE,FALSE,,,,,
+9GW3_A.pdb,9GW3,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW3_B.pdb,9GW3,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW4_A.pdb,9GW4,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW4_B.pdb,9GW4,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW7_A.pdb,9GW7,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW7_B.pdb,9GW7,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW8_A.pdb,9GW8,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GW8_B.pdb,9GW8,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWB_A.pdb,9GWB,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWB_B.pdb,9GWB,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWC_A.pdb,9GWC,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWC_B.pdb,9GWC,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWE_A.pdb,9GWE,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWE_B.pdb,9GWE,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWF_A.pdb,9GWF,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWF_B.pdb,9GWF,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWG_A.pdb,9GWG,A,FALSE,FALSE,,,,,
+9GWG_B.pdb,9GWG,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWH_A.pdb,9GWH,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWH_B.pdb,9GWH,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWI_A.pdb,9GWI,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWI_B.pdb,9GWI,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWK_A.pdb,9GWK,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWK_B.pdb,9GWK,B,FALSE,FALSE,,,,,
+9GWL_A.pdb,9GWL,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWL_B.pdb,9GWL,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWM_A.pdb,9GWM,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWM_B.pdb,9GWM,B,FALSE,FALSE,,,,,
+9GWN_A.pdb,9GWN,A,FALSE,FALSE,,,,,
+9GWN_B.pdb,9GWN,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWP_A.pdb,9GWP,A,TRUE,FALSE,,,,4F1,4-{1-[2-chloro-6-(trifluoromethyl)benzoyl]-1H-indazol-3-yl}benzoic acid
+9GWP_B.pdb,9GWP,B,TRUE,FALSE,,,,4F1,4-{1-[2-chloro-6-(trifluoromethyl)benzoyl]-1H-indazol-3-yl}benzoic acid
+9GWQ_A.pdb,9GWQ,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWQ_B.pdb,9GWQ,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWR_A.pdb,9GWR,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWR_B.pdb,9GWR,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWS_A.pdb,9GWS,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWS_B.pdb,9GWS,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWX_A.pdb,9GWX,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWX_B.pdb,9GWX,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWY_A.pdb,9GWY,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GWY_B.pdb,9GWY,B,FALSE,FALSE,,,,,
+9GX0_A.pdb,9GX0,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX0_B.pdb,9GX0,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX1_A.pdb,9GX1,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX1_B.pdb,9GX1,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX2_A.pdb,9GX2,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX2_B.pdb,9GX2,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX3_A.pdb,9GX3,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX3_B.pdb,9GX3,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX4_A.pdb,9GX4,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX4_B.pdb,9GX4,B,FALSE,FALSE,,,,,
+9GX5_A.pdb,9GX5,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX5_B.pdb,9GX5,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX6_A.pdb,9GX6,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX6_B.pdb,9GX6,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX7_A.pdb,9GX7,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GX7_B.pdb,9GX7,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GXD_A.pdb,9GXD,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GXD_B.pdb,9GXD,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ7_A.pdb,9GZ7,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ7_B.pdb,9GZ7,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ8_A.pdb,9GZ8,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ8_B.pdb,9GZ8,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ9_A.pdb,9GZ9,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZ9_B.pdb,9GZ9,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZA_A.pdb,9GZA,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZA_B.pdb,9GZA,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZB_A.pdb,9GZB,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZB_B.pdb,9GZB,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZC_A.pdb,9GZC,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZC_B.pdb,9GZC,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZE_A.pdb,9GZE,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZE_B.pdb,9GZE,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZF_A.pdb,9GZF,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZF_B.pdb,9GZF,B,FALSE,FALSE,,,,,
+9GZI_A.pdb,9GZI,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9GZI_B.pdb,9GZI,B,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9HX2_A.pdb,9HX2,A,TRUE,FALSE,,,,A1I,N-(cyclopent-3-ene-1-carbonyl)-L-histidine
+9HX2_B.pdb,9HX2,B,FALSE,FALSE,,,,,
+9IWK_C.pdb,9IWK,C,FALSE,TRUE,D,10,NUCLEAR RECEPTOR COREPRESSOR 2,,
+9L3T_A.pdb,9L3T,A,TRUE,FALSE,,,,AYR,"(2E,4E)-5-(2H-1,3-benzodioxol-5-yl)-1-(piperidin-1-yl)penta-2,4-dien-1-one"
+9L3T_B.pdb,9L3T,B,FALSE,FALSE,,,,,
+9O9N_A.pdb,9O9N,A,TRUE,TRUE,B,13,,A1C,"1-(3-chloro-4-methylphenyl)-N-(2-oxo-1-propyl-1,2,3,4-tetrahydroquinolin-6-yl)methanesulfonamide"
+9V8D_A.pdb,9V8D,A,TRUE,TRUE,B,14,PG08,"AC5,EDO,PEG,PGE","1-AMINOCYCLOPENTANECARBOXYLIC ACID,TRIETHYLENE GLYCOL"
+9V8E_A.pdb,9V8E,A,TRUE,TRUE,B,12,PG11,"192,ACE,DTY,N9P,PEG","1-AMINOCYCLOBUTANECARBOXLIC ACID,ACETYL GROUP,D-TYROSINE,3-pyridin-4-yl-L-alanine"
+9V8F_A.pdb,9V8F,A,TRUE,TRUE,B,14,,"A1L,ACE,DTY,PEG","[2-[[(2S)-1-[bis(phenylmethyl)amino]-5-[[N-(methylcarbamoyl)carbamimidoyl]amino]-1-oxidanylidene-pentan-2-yl]amino]-2-oxidanylidene-ethyl]-diazonio-azanide,ACETYL GROUP,D-TYROSINE"
+9V8G_A.pdb,9V8G,A,TRUE,TRUE,B,12,PG08-NL,"AC5,NH2,PEG","1-AMINOCYCLOPENTANECARBOXYLIC ACID,AMINO GROUP"
+9V8H_A.pdb,9V8H,A,TRUE,TRUE,B,11,PG08-NL,"AC5,BRL,NH2,PEG,PGE","1-AMINOCYCLOPENTANECARBOXYLIC ACID,2,4-THIAZOLIDIINEDIONE, 5-[[4-[2-(METHYL-2-PYRIDINYLAMINO)ETHOXY]PHENYL]METHYL]-(9CL),AMINO GROUP,TRIETHYLENE GLYCOL"
