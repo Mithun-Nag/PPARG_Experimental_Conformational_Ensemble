@@ -170,9 +170,9 @@ including the system-preparation, minimization, and production simulation script
 **10 ns MD relaxation**
 ↓
 **Relaxed experimental PPARγ conformational ensemble**
+______________
 
-
-🛠️ Software and Computational Requirements
+## 🛠️ Software and Computational Requirements
 
 The workflow was developed using the following software and computing environments:
 
