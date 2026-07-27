@@ -1,4 +1,4 @@
-PPARG_Experimental_Conformational_Ensemble# 🧬 PPARγ Experimental Conformational Ensemble
+# 🧬 PPARγ Experimental Conformational Ensemble
 
 ### Experimental PPARγ structural ensemble reconstruction and molecular dynamics relaxation
 
